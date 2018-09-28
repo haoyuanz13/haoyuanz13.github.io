@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "BJ-CHN"
-title                    : "Happy to Have U Here"
+title                    : "Greetings from haoyuanz"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "haoyuan.zhang"
 description              : &description "personal description"
 url                      : https://haoyuanz13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,7 +28,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"  # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
