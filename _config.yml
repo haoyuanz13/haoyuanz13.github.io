@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "BJ-CHN"
-title                    : "Happy to have you here!"
+title                    : "Happy to Have U Here"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Haoyuan (Steve) Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am a man"
+  location         : "Beijing, China"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : "haoyuan.zhang@horizon.ai"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "haoyuanz13"
   google_plus      :
   keybase          :
   instagram        :
