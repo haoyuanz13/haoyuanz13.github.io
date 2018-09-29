@@ -1,15 +1,15 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+#   - title: "Publications"
+#     url: /publications/
 
-  - title: "Talks"
+  - title: "Works"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#   - title: "Teaching"
+#     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Daliy Life"
     url: /portfolio/
         
 #   - title: "Blog Posts"
