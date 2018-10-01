@@ -1,7 +1,7 @@
 ---
 title: "The Face Detection and Replacement Package Design"
 collection: talks
-type: "Academic Project @Robotics Program @CIS UPenn"
+type: "Academic Project @Robotics Program"
 permalink: /talks/face_det_replace
 venue: "CIS Department@UPenn"
 date: 2016-08-20
