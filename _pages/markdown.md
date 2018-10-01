@@ -9,11 +9,11 @@ redirect_from:
 
 <p >
 <align="left">
-  <img src = "./images/profile1_small.jpg" width="260" height="130">
+  <img src = "/images/profile1_small.jpg" width="200" height="300">
 <align="center">
-  <img src = "./images/profile1_small.jpg" width="260" height="130">
+  <img src = "/images/profile1_small.jpg" width="200" height="300">
 <align="right">
-  <img src = "./images/profile1_small.jpg" width="260" height="130">
+  <img src = "/images/profile1_small.jpg" width="200" height="300">
 </p>
 
 ## Locations of key files/directories
