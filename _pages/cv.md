@@ -25,15 +25,15 @@ redirect_from:
 `Work experience`
 -----------------
 * **[Horizon Robotics](http://en.horizon.ai/)**
-  * Algorithm Engineer, Computer Vision Focused@ Smart Mobility R&D
+  * `Algorithm Engineer`, Computer Vision Focused@ Smart Mobility R&D
   * Duties included: object detection, classification, 3D Vision
   * Beijing, China, 2018.6 - Present
 * **[DJI](https://www.dji.com/cn)**
-  * Summer Research Intern @DJI Research America, Pennovation Branch
+  * `Summer Research Intern` @DJI Research America, Pennovation Branch
   * Duties included: Polynomial Trajectory UI development on SDK platform
   * Philadelphia, PA, USA, 2017.5 - 2017.8
 * **[Computer and Information Science Department @UPenn](http://www.cis.upenn.edu/index.php)**
-  * Teaching Assistant @CIS Graduate Program
+  * `Teaching Assistant` @CIS Graduate Program
   * Duties included: [CIS 581(Computer Vision)](https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=CIS_581:_Computer_Vision_%26_Computational_Photography), [CIS 580(Machine Perception)](https://fling.seas.upenn.edu/~cis580/wiki/index.php?title=CIS580:_Machine_Perception)
   * Supervisor: [Dr. Jianbo Shi](http://www.cis.upenn.edu/~jshi/), [Dr. Kostas Daniilidis](http://www.cis.upenn.edu/~kostas/)
   * Philadelphia, PA, USA, 2017.8 - 2018.5
