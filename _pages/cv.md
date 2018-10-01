@@ -60,7 +60,7 @@ redirect_from:
 `Awards`
 -------
   <ul>{% for post in site.publications %}
-    {% include archive-single-publication-cv.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 
