@@ -59,19 +59,6 @@ redirect_from:
   
 `Awards`
 -------
-  <ul>{% for post in site.awards %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
