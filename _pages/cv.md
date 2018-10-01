@@ -38,20 +38,24 @@ redirect_from:
   * Supervisor: [Dr. Jianbo Shi](http://www.cis.upenn.edu/~jshi/), [Dr. Kostas Daniilidis](http://www.cis.upenn.edu/~kostas/)
   * Philadelphia, PA, USA, 2017.8 - 2018.5
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+`Skills`
+-------
+* `Programming Languages`
+  * C++ / C
+  * Python shell
+  * Java
+  * Matlab
+* `Frameworks and Tools`
+  * ROS
+  * Linux(Ubuntu)
+  * MXNET / Tensorflow / PyTorch
+  * Git
+  * Vim
+* `Algorithm Skills`
+  * Stereo Geometry / Structure From Motion(SFM) / Visual SLAM(VO & VIO) / Camera Calibration
+  * Learning Network(ML & DNN) / Image Processing / Object Recognition / GAN
+  * Robotics Algorithm / Kalman Filter(KF) / UKF / Polynomial Trajectory Planning and Generation
+  * Probabilistic Theory / Convex Optimization
   
 Talks
 ======
@@ -64,7 +68,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
