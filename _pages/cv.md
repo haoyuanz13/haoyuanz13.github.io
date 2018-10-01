@@ -59,7 +59,11 @@ redirect_from:
   
 `Awards`
 -------
-* `Excellent Engineer Cultivation Program of the Ministry of Education`, 2016.6, Beijing, China
-* `Excellent Students Scholarship, Chinese Academy of Science`, 2014.3, Beijing, China
-* `2nd Prize of the 30th National Physics Competition, Beijing Physics Society`, 2013.12, Beijing, China
-* `The 1st Class Excellent Student Scholarship(3 times), Beijing Institute of Technology`, 2013.1 - 2014.10, Beijing, China
+* `Excellent Engineer Cultivation Program of the Ministry of Education`
+  * 2016.6, Beijing, China
+* `Excellent Students Scholarship, Chinese Academy of Science`
+  * 2014.3, Beijing, China
+* `2nd Prize of the 30th National Physics Competition, Beijing Physics Society`
+  * 2013.12, Beijing, China
+* `The 1st Class Excellent Student Scholarship(3 times), Beijing Institute of Technology`
+  * 2013.1 - 2014.10, Beijing, China
