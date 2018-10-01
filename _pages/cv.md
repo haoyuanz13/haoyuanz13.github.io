@@ -12,13 +12,13 @@ redirect_from:
 `Education`
 ----------
 * **[University of Pennsylvania](https://www.upenn.edu/)**
-  * M.S. in Science Engineering, Robotics, Major GAP: 3.77/4.00
+  * `M.S.` in Science Engineering, Robotics, Major GAP: 3.77/4.00
   * Philadelphia, PA, USA, 2016.8 - 2018.5
 * **[Beijing Institute of Technology](http://www.bit.edu.cn/)**
-  * B.S. in Science Engineering, Electrical Engineering, Major GAP: 3.90/4.00
+  * `B.S.` in Science Engineering, Electrical Engineering, Major GAP: 3.90/4.00
   * Beijing, China, 2012.8 - 2016.6
 * **[The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/web/en/home/index.html)**
-  * B.S. Exchange Program, Computer Science, Major GAP: 3.75/4.00
+  * `B.S. Exchange Program.` in Computer Science, Major GAP: 3.75/4.00
   * Hong Kong, China, 2015.8 - 2016.1
 
 
