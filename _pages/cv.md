@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+`Education`
+----------
 * **[University of Pennsylvania](https://www.upenn.edu/)**
   * M.S. in Science Engineering, Robotics, Major GAP: 3.77/4.00
   * Philadelphia, PA, USA, 2016.8 - 2018.5
@@ -21,8 +21,9 @@ Education
   * B.S. Exchange Program, Computer Science, Major GAP: 3.75/4.00
   * Hong Kong, China, 2015.8 - 2016.1
 
-Work experience
-======
+
+`Work experience`
+-----------------
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
