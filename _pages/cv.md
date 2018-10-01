@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Science Engineering, Electrical Engineering, Major GAP: 3.90/4.00, Beijing Institute of Technology, 2012.8-2016.6
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
