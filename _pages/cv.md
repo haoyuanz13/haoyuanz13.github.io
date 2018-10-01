@@ -57,6 +57,13 @@ redirect_from:
   * Robotics Algorithm / Kalman Filter(KF) / UKF / Polynomial Trajectory Planning and Generation
   * Probabilistic Theory / Convex Optimization
   
+`Awards`
+-------
+  <ul>{% for post in site.awards %}
+    {% include archive-single-awards-cv.html %}
+  {% endfor %}</ul>
+
+
 Talks
 ======
   <ul>{% for post in site.talks %}
