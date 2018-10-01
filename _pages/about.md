@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hey Hey! Tell u all about Haoyuan"
+title: "Hellow there! Tell u all about Haoyuan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Happy to have u here!
+`Happy to have u here! 感谢你的来访！`
