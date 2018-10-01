@@ -1,6 +1,6 @@
 ---
 title: "Mine Street View"
-excerpt: "<br/><img src='/images/profile1.jpeg'>"
+excerpt: "<br/><img src='/images/profile1_small.jpg'>"
 collection: portfolio
 ---
 
