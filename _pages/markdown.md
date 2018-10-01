@@ -7,6 +7,15 @@ redirect_from:
   - /markdown.html
 ---
 
+<p >
+<align="left">
+  <img src = "./images/profile1_small.jpg" width="260" height="130">
+<align="center">
+  <img src = "./images/profile1_small.jpg" width="260" height="130">
+<align="right">
+  <img src = "./images/profile1_small.jpg" width="260" height="130">
+</p>
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
