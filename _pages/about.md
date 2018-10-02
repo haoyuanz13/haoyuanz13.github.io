@@ -20,4 +20,8 @@ Education Life
 --------------
 After my graduation from **@[Zhejing Zhoushan High School](http://www.zjzszx.cn)** in June, 2012, I went to Beijing, China for my four-year undergraduate program **@[Beijing Institute of Technology](http://www.bit.edu.cn/)**, major in Electrical Engineering. 
 
-At my senior year in 2015, I got an admission of Exchange Program from **@[The Hong Kong Polytechnic University](https://www.polyu.edu.hk/web/en/home/index.html)**, learning Computer Science and HCI(Human-Computer Interaction). At June, 2016, I finished my undergraduate program and obtained the Bachelor Degree in Science Engineering. Same year, 
+At my senior year in 2015, I got an admission of Exchange Program from **@[The Hong Kong Polytechnic University](https://www.polyu.edu.hk/web/en/home/index.html)**, learning Computer Science and HCI(Human-Computer Interaction). At June, 2016, I finished my undergraduate program and obtained the Bachelor Degree in Science Engineering.     
+
+That same year, I got an offer from the **@[University of Pennsylvania](https://www.upenn.edu/)**, major in Robotics, Master Program. Supervised by **[Dr. Jianbo Shi](http://www.cis.upenn.edu/~jshi/)**, my main research and interests are about computer vision, also a lover of the 3D Vision issue, including the Structure from Motion, Visual Slam and AR algorithm. 
+
+After two-year learning and working **@[GRASP Lab](https://www.grasp.upenn.edu/)**, I became experienced in both traditional and modern computer vision (deep learning based) algorithms, also with strong coding ability. Finally, I received my first master degree at May, 2018. 
