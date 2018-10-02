@@ -27,3 +27,19 @@ That same year, I got an offer from the **@[University of Pennsylvania](https://
 After two-year learning and working **@[GRASP Lab](https://www.grasp.upenn.edu/)**, I became experienced in both traditional and modern computer vision (deep learning based) algorithms, also with strong coding ability. Finally, I received my first **[Master Degree](https://www.grasp.upenn.edu/people/haoyuan-zhang)** at May, 2018. 
 
 Feel free to check my `detailed resume` [here](https://haoyuanz13.github.io/cv/) and `research project work` [here](https://haoyuanz13.github.io/talks/).
+
+
+What I am doing now ...
+-----------------------
+Currently I am working as an Algorithm Engineer at the Smart Mobility R&D team **@[Horizon Robotics](http://en.horizon.ai/)**, Beijing, China. My main responsibiliy is about vision-based object detection, classification and 3D Box estimation, which match my background very well. 
+
+Looking forward to receiving more ideas and connections about those topics!
+
+
+More about me
+-------------
+During my spare time after work, I love sports very much, including basketball, fitness, skiing and sleeping lol ... 
+
+In addition, I enjoy reading and watching some detective-involved materials, such as some detective stories especailly brought by **[Keigo Higashino 东野圭吾](https://en.wikipedia.org/wiki/Keigo_Higashino)**, and the video **[《Signal》信号](https://zh.wikipedia.org/wiki/Signal_(%E9%9B%BB%E8%A6%96%E5%8A%87))** is highly recommended! Welcome to show your ideas if you are also interested in those stuffs! 
+
+Also, I am keep posting some good and interesting photos [here](https://haoyuanz13.github.io/portfolio/) and hope you will like some of them :)
