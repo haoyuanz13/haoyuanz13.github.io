@@ -10,4 +10,7 @@ redirect_from:
 
 `Happy to have u here! 感谢来访！`
 
-Welocome to Haoyuan's world! My full name is Haoyuan Zhang, and feel free to call me Steve. What's more, 张皓原 is my name represented by the Chinese character. Now let me show you more about me!
+
+Start with who I am
+------------------
+Welocome to Haoyuan's world! My full name is Haoyuan Zhang, and feel free to call me Steve. What's more, 张皓原 is my name represented by the Chinese character. My hometown is a beautiful island, named **[Zhoushan Islands](https://zh.wikipedia.org/wiki/%E8%88%9F%E5%B1%B1%E7%BE%A4%E5%B2%9B)**, located at the East China Sea. 
