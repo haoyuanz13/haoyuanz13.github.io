@@ -13,4 +13,8 @@ redirect_from:
 
 Start with who I am
 ------------------
-Welocome to Haoyuan's world! My full name is Haoyuan Zhang, and feel free to call me Steve. What's more, 张皓原 is my name represented by the Chinese character. My hometown is a beautiful island, named **[Zhoushan Islands](https://zh.wikipedia.org/wiki/%E8%88%9F%E5%B1%B1%E7%BE%A4%E5%B2%9B)**, located at the East China Sea. 
+Welocome to Haoyuan's world! My full name is Haoyuan Zhang, and feel free to call me Steve. What's more, 张皓原 is my name represented by the Chinese character. My hometown is a beautiful island, named **[Zhoushan Islands](https://zh.wikipedia.org/wiki/%E8%88%9F%E5%B1%B1%E7%BE%A4%E5%B2%9B)**, located at the East China Sea near Shanghai. I spent all my childhood and school life there up to 18 years old after my graduation from **[Zhejing Zhoushan High School](http://www.zjzszx.cn)**.
+
+
+Education Life
+--------------
