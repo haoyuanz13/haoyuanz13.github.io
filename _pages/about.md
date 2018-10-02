@@ -24,4 +24,4 @@ At my senior year in 2015, I got an admission of Exchange Program from **@[The H
 
 That same year, I got an offer from the **@[University of Pennsylvania](https://www.upenn.edu/)**, major in Robotics, Master Program. Supervised by **[Dr. Jianbo Shi](http://www.cis.upenn.edu/~jshi/)**, my main research and interests are about computer vision, also a lover of the 3D Vision issue, including the Structure from Motion, Visual Slam and AR algorithm. 
 
-After two-year learning and working **@[GRASP Lab](https://www.grasp.upenn.edu/)**, I became experienced in both traditional and modern computer vision (deep learning based) algorithms, also with strong coding ability. Finally, I received my first master degree at May, 2018. 
+After two-year learning and working **@[GRASP Lab](https://www.grasp.upenn.edu/)**, I became experienced in both traditional and modern computer vision (deep learning based) algorithms, also with strong coding ability. Finally, I received my first **[Master Degree](https://www.grasp.upenn.edu/people/haoyuan-zhang)** at May, 2018. 
