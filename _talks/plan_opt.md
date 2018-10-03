@@ -4,7 +4,7 @@ collection: talks
 type: "Course Work @Robo Program"
 permalink: /talks/plan_opt
 venue: "CIS Department@UPenn"
-date: 2017-03-22
+date: 2018-02-03
 location: "Philadelphia, PA"
 ---
 
