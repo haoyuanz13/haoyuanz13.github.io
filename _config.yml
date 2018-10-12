@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "BJ-CHN"
-title                    : "Welcome to Haoyuan's World"
+title                    : "Haoyuan Zhang 张皓原"
 title_separator          : "-"
 name                     : &name "haoyuan.zhang"
 description              : &description "personal description"
@@ -79,9 +79,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haoyuan (Steve) Zhang"
+  name             : "Haoyuan Zhang"
   avatar           : "prof_hy.jpeg"
-  bio              : "A life lover, working as an Algorithm Engineer(Computer-Vision Focused)"
+  bio              : "Why so serious"
   location         : "Beijing, China"
   employer         : "Horizon Robotics"
   googlescholar    : 
