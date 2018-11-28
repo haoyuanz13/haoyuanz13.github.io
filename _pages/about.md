@@ -18,7 +18,7 @@ Welocome to Haoyuan's world! My full name is Haoyuan Zhang, and feel free to cal
 
 Education Life
 --------------
-After my graduation from **@[Zhejing Zhoushan High School](http://www.zjzszx.cn)** in June, 2012, I went to Beijing, China for my four-year undergraduate program **@[Beijing Institute of Technology](http://www.bit.edu.cn/)**, major in Electrical Engineering. 
+After my graduation from **@[Zhejiang Zhoushan High School](http://www.zjzszx.cn)** in June, 2012, I went to Beijing, China for my four-year undergraduate program **@[Beijing Institute of Technology](http://www.bit.edu.cn/)**, major in Electrical Engineering. 
 
 At my senior year in 2015, I got an admission of Exchange Program from **@[The Hong Kong Polytechnic University](https://www.polyu.edu.hk/web/en/home/index.html)**, learning Computer Science and HCI(Human-Computer Interaction). At June, 2016, I finished my undergraduate program and obtained the Bachelor Degree in Science Engineering.     
 
