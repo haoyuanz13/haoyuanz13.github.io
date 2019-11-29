@@ -26,8 +26,8 @@ redirect_from:
 -----------------
 * **[Horizon Robotics](http://en.horizon.ai/)**
   * `Algorithm Engineer`, Computer Vision Focused@ Smart Mobility R&D
-  * Duties included: object detection, classification, 3D Vision
-  * Beijing, China, 2018.6 - Present
+  * Duties included: 3D Box framework, evaluation system and gluon-mxnet.
+  * Beijing, China, 2018.6 - 2019.12
 * **[DJI](https://www.dji.com/cn)**
   * `Summer Research Intern` @DJI Research America, Pennovation Branch
   * Duties included: Polynomial Trajectory UI development on SDK platform
