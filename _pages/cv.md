@@ -25,7 +25,7 @@ redirect_from:
 `Work experience`
 -----------------
 * **[MEGVII](https://www.megvii.com/en)**
-  * `SLAM Researcher` @ R-SLAM Team
+  * `SLAM Researcher` @ [Megvii R-SLAM Team](https://zhuanlan.zhihu.com/r-slam)
   * Duties included: Visual SLAM, HD Map
   * Beijing, China, 2019.12 - Present
 * **[Horizon Robotics](http://en.horizon.ai/)**
