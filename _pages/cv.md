@@ -24,6 +24,10 @@ redirect_from:
 
 `Work experience`
 -----------------
+* **[MEGVII](https://www.megvii.com/en)**
+  * `SLAM Researcher` @ R-SLAM Team
+  * Duties included: Visual SLAM, HD Map
+  * Beijing, China, 2019.12 - Present
 * **[Horizon Robotics](http://en.horizon.ai/)**
   * `Algorithm Engineer`, Computer Vision Focused@ Smart Mobility R&D
   * Duties included: 3D Box framework, evaluation system and gluon-mxnet.
