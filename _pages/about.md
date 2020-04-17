@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-## Start with who I am
+Start with who I am
 ------------------
 My full name is Haoyuan Zhang, and feel free to call me Steve. What's more, 张皓原 is my name represented by the Chinese character. 
 
@@ -22,7 +22,7 @@ My hometown is a beautiful island, named **[Zhoushan Islands](https://zh.wikiped
 
 
 
-## Education Life
+Education Life
 --------------
 - *High school (2009.8 - 2012.7)*        
   - @[Zhejiang Zhoushan High School](http://www.zjzszx.cn)
@@ -43,7 +43,7 @@ Feel free to check my `detailed resume` [here](https://haoyuanz13.github.io/cv/)
 
 
 
-## What I am doing now
+What I am doing now
 ---------------------
 Currently, my main research and interests are about:
 - traditional and modern computer vision
@@ -53,7 +53,7 @@ Feel free to check my `research project work` [here](https://haoyuanz13.github.i
 
 
 
-## More about me
+More about me
 -------------
 During my spare time after work, I love sports very much, including basketball, fitness, skiing and sleeping lol ... 
 
