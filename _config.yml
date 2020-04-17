@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "BJ-CHN"
-title                    : "Haoyuan Zhang 张皓原"
+title                    : "Haoyuan Zhang / 张皓原"
 title_separator          : "-"
 name                     : &name "haoyuan.zhang"
 description              : &description "personal description"
