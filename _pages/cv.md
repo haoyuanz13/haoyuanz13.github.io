@@ -24,7 +24,7 @@ redirect_from:
 
 `Work experience`
 -----------------
-* **[MEGVII](https://www.megvii.com/en)**
+* **[MEGVII](https://en.megvii.com/)**
   * `SLAM Researcher` @[Megvii R-SLAM Team](https://zhuanlan.zhihu.com/r-slam)
   * Duties included: Visual SLAM, HD Map
   * Beijing, China, 2019.12 - Present
