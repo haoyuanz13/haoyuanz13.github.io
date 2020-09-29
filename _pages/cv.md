@@ -47,8 +47,9 @@ redirect_from:
 * `Programming Languages`
   * C++ / C
   * Python shell
-  * Java
+  * CUDA
   * Matlab
+  * Java
 * `Frameworks and Tools`
   * ROS
   * Linux(Ubuntu)
