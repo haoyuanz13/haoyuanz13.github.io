@@ -55,8 +55,8 @@ Feel free to check my `research project work` [here](https://haoyuanz13.github.i
 
 More about me
 -------------
-During my spare time after work, I love sports very much, including basketball, fitness, skiing and sleeping lol ... 
+During my spare time after work, I love sports very much, including basketball, fitness, skiing.
 
-In addition, I enjoy reading and watching some detective-involved materials, such as some detective stories especailly brought by **[Keigo Higashino 东野圭吾](https://en.wikipedia.org/wiki/Keigo_Higashino)**, and the video **[Signal](https://zh.wikipedia.org/wiki/Signal_(%E9%9B%BB%E8%A6%96%E5%8A%87))** is highly recommended! Welcome to show your ideas if you are also interested in those stuffs! 
+Also, I enjoy reading and watching some detective-involved materials, such as some detective stories especailly brought by **[Keigo Higashino 东野圭吾](https://en.wikipedia.org/wiki/Keigo_Higashino)**, and the video **[Signal](https://zh.wikipedia.org/wiki/Signal_(%E9%9B%BB%E8%A6%96%E5%8A%87))** is highly recommended! Welcome to show your ideas if you are also interested in those stuffs! 
 
 Also, I keep posting some good and interesting photos [here](https://haoyuanz13.github.io/portfolio/) and hope you will like some of them :)
