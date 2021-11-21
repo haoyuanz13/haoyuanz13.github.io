@@ -76,4 +76,4 @@ redirect_from:
 `CV Set`
 --------
 * [English](https://haoyuanz13.github.io/files/resume-haoyuanzhang.pdf)
-* [中文](https://haoyuanz13.github.io/files/resume_zhanghaoyuan_cn_20211017.pdf)
+* [中文](https://haoyuanz13.github.io/files/resume_zhanghaoyuan_cn_20211121.pdf)
