@@ -24,10 +24,14 @@ redirect_from:
 
 `Work experience`
 -----------------
+* **[ByteDance](https://www.bytedance.com/en/)**
+  * `Fulltime - MR R&D` @[Pico Group](https://www.pico-interactive.com/)
+  * Duties included: 3D Reconstruction, Vision Loc
+  * Beijing, China, 2021.12 - Present
 * **[MEGVII](https://en.megvii.com/)**
   * `Fulltime - SLAM Researcher` @[Megvii R-SLAM Team](https://zhuanlan.zhihu.com/r-slam)
   * Duties included: Visual SLAM, HD Map
-  * Beijing, China, 2019.12 - Present
+  * Beijing, China, 2019.12 - 2021.12
 * **[Horizon Robotics](http://en.horizon.ai/)**
   * `Fulltime - Algorithm Engineer` Computer Vision Focused @Smart Mobility R&D
   * Duties included: 3D Box framework, evaluation system and gluon-mxnet.
