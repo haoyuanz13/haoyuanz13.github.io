@@ -76,8 +76,3 @@ redirect_from:
   * 2013.12, Beijing, China
 * `The 1st Class Excellent Student Scholarship(3 times), Beijing Institute of Technology`
   * 2013.1 - 2014.10, Beijing, China
-
-`CV Set`
---------
-* [English](https://haoyuanz13.github.io/files/resume-haoyuanzhang.pdf)
-* [中文](https://haoyuanz13.github.io/files/resume_zhanghaoyuan_cn_20211121.pdf)
