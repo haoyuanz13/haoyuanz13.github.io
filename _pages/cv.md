@@ -24,10 +24,14 @@ redirect_from:
 
 `Work experience`
 -----------------
+* **[NVIDIA](https://www.nvidia.com/en-us/)**
+  * `Fulltime - Senior Sys SW Engineer` @SW-TEGRA
+  * Duties included: Mapping, Loc, Sensor Fusion
+  * Shanghai, China, 2024.12 - Present
 * **[ByteDance](https://www.bytedance.com/en/)**
-  * `Fulltime - MR R&D` @[Pico Group](https://www.pico-interactive.com/)
+  * `Fulltime - MR R&D` @[PICO Group](https://www.pico-interactive.com/)
   * Duties included: 3D Reconstruction, Vision Loc
-  * Beijing, China, 2021.12 - Present
+  * Shanghai, China, 2021.12 - 2024.12
 * **[MEGVII](https://en.megvii.com/)**
   * `Fulltime - SLAM Researcher` @[Megvii R-SLAM Team](https://zhuanlan.zhihu.com/r-slam)
   * Duties included: Visual SLAM, HD Map
