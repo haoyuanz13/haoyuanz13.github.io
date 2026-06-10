@@ -1,0 +1,438 @@
+/* ==========================================================================
+   Haoyuan-styled pages (about / cv) — visual alignment with Works timeline.
+   Scoped to <section class="hy-page"> wrappers in those markdown files.
+   ========================================================================== */
+
+/* Re-use the works palette (defined in _works-timeline.scss). */
+$hy-text-strong : #111827;
+$hy-text        : #374151;
+$hy-text-muted  : #6b7280;
+$hy-accent      : #2563eb;
+$hy-accent-soft : #93c5fd;
+$hy-card-border : #e5e7eb;
+$hy-chip-bg     : #eff6ff;
+$hy-chip-fg     : #1d4ed8;
+
+.hy-page {
+  color: $hy-text;
+  font-size: 1rem;
+  line-height: 1.7;
+
+  /* Section headings -------------------------------------------------- */
+  h1 {
+    font-size: 1.7rem;
+    font-weight: 700;
+    color: $hy-text-strong;
+    margin: 0 0 1rem;
+  }
+
+  h2 {
+    position: relative;
+    font-family: $sans-serif;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: $hy-text-strong;
+    margin: 2.25rem 0 1.05rem;
+    padding: 0 0 0.5rem;
+    letter-spacing: 0.015em;
+    border-bottom: 0;
+
+    &::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      width: 2.5rem;
+      height: 3px;
+      background: $hy-accent;
+      border-radius: 2px;
+    }
+  }
+
+  h3 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: $hy-text-strong;
+    margin: 1.25rem 0 0.5rem;
+  }
+
+  /* Body text --------------------------------------------------------- */
+  p {
+    margin: 0 0 0.85rem;
+    color: $hy-text;
+  }
+
+  strong {
+    color: $hy-text-strong;
+    font-weight: 600;
+  }
+
+  /* Links ------------------------------------------------------------- */
+  a {
+    color: $hy-accent;
+    text-decoration: none;
+    border-bottom: 1px solid rgba($hy-accent, 0.22);
+    transition: border-color 0.15s ease, color 0.15s ease;
+
+    &:hover {
+      color: darken($hy-accent, 10%);
+      border-bottom-color: $hy-accent;
+    }
+  }
+
+  /* Inline `code` — neutral grey pill; links keep the blue accent. */
+  code {
+    background: #f3f4f6;
+    color: #4b5563;
+    padding: 0.1rem 0.5rem;
+    border-radius: 6px;
+    font-family: $monospace;
+    font-size: 0.85em;
+    font-weight: 500;
+    border: 1px solid $hy-card-border;
+  }
+
+  /* Lists ------------------------------------------------------------- */
+  ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0 0 1rem;
+
+    > li {
+      position: relative;
+      padding-left: 1.5rem;
+      margin: 0.55rem 0;
+      color: $hy-text;
+
+      &::before {
+        content: "";
+        position: absolute;
+        left: 0.4rem;
+        top: 0.7rem;
+        width: 6px;
+        height: 6px;
+        background: $hy-accent;
+        border-radius: 50%;
+      }
+
+      /* nested sub-list — softer hollow dot */
+      ul {
+        margin: 0.35rem 0 0.5rem;
+
+        > li {
+          padding-left: 1.4rem;
+          margin: 0.3rem 0;
+          font-size: 0.96em;
+          color: $hy-text;
+
+          &::before {
+            top: 0.7rem;
+            width: 6px;
+            height: 6px;
+            background: transparent;
+            border: 1.5px solid $hy-accent-soft;
+          }
+        }
+      }
+    }
+  }
+
+  ol {
+    margin: 0.4rem 0 1rem;
+    padding-left: 1.4rem;
+
+    > li {
+      margin: 0.4rem 0;
+
+      &::marker { color: $hy-text-muted; }
+    }
+  }
+
+  /* Slightly de-emphasised italics — used in CV as date ranges. */
+  em {
+    color: $hy-text-muted;
+  }
+
+  hr {
+    border: 0;
+    height: 1px;
+    background: $hy-card-border;
+    margin: 2rem 0;
+  }
+
+  /* Mobile tightening ------------------------------------------------ */
+  @media (max-width: 640px) {
+    font-size: 0.95rem;
+
+    h2 { font-size: 1.2rem; margin-top: 1.7rem; }
+    h3 { font-size: 1.02rem; }
+  }
+}
+
+/* ==========================================================================
+   CV-specific: card-style entries + skill chips.
+   Used inside the .hy-page wrapper on /cv/.
+   ========================================================================== */
+
+.hy-cv-item {
+  padding: 0.95rem 1.15rem 1.05rem;
+  margin: 0.55rem 0 0.7rem;
+  background: #ffffff;
+  border: 1px solid $hy-card-border;
+  border-radius: 10px;
+  transition: border-color 0.18s ease,
+              box-shadow 0.18s ease,
+              transform 0.18s ease;
+
+  &:hover {
+    border-color: rgba($hy-accent, 0.32);
+    box-shadow: 0 9px 22px -14px rgba($hy-accent, 0.4);
+    transform: translateY(-1px);
+  }
+
+  /* All paragraphs inside the card are tight by default. */
+  p { margin: 0; }
+  p + p { margin-top: 0.35rem; }
+}
+
+.hy-cv-item__head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.4rem 1rem;
+  margin: 0 0 0.3rem;
+}
+
+.hy-cv-item__org {
+  font-size: 1.04rem;
+  font-weight: 700;
+  color: $hy-text-strong;
+  line-height: 1.3;
+
+  a {
+    color: inherit;
+    border-bottom: 0 !important;
+    transition: color 0.15s ease;
+
+    &:hover { color: $hy-accent; }
+  }
+}
+
+.hy-cv-item__date {
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: $hy-text-muted;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.01em;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.hy-cv-item__role {
+  font-size: 0.96rem;
+  color: $hy-text;
+  margin: 0.2rem 0 0;
+
+  a { /* keep link styling neutral inside role */
+    color: $hy-accent;
+    border-bottom: 0;
+
+    &:hover { border-bottom: 1px solid $hy-accent; }
+  }
+}
+
+.hy-cv-item__duties {
+  font-size: 0.9rem;
+  color: $hy-text-muted;
+  margin: 0.3rem 0 0;
+  line-height: 1.55;
+
+  a {
+    color: $hy-text-muted;
+    border-bottom: 1px dotted rgba($hy-text-muted, 0.6);
+
+    &:hover {
+      color: $hy-accent;
+      border-bottom-color: $hy-accent;
+    }
+  }
+}
+
+.hy-cv-item__loc {
+  font-size: 0.82rem;
+  color: $hy-text-muted;
+  margin: 0.4rem 0 0;
+  display: flex;
+  align-items: center;
+
+  &::before {
+    content: "";
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    margin-right: 0.5rem;
+    background: $hy-accent-soft;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+}
+
+/* Skills section -------------------------------------------------------- */
+
+.hy-cv-skills {
+  margin: 0.5rem 0 0;
+
+  h3 {
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: $hy-text-muted;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin: 1.4rem 0 0.55rem;
+  }
+}
+
+.hy-chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.45rem;
+  margin: 0 0 0.4rem;
+}
+
+.hy-chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.32rem 0.75rem;
+  background: #f9fafb;
+  color: $hy-text;
+  border: 1px solid $hy-card-border;
+  border-radius: 999px;
+  font-size: 0.83rem;
+  font-weight: 500;
+  white-space: nowrap;
+  transition: background 0.15s ease,
+              color 0.15s ease,
+              border-color 0.15s ease,
+              transform 0.15s ease;
+
+  &:hover {
+    background: $hy-chip-bg;
+    color: $hy-chip-fg;
+    border-color: rgba($hy-chip-fg, 0.25);
+    transform: translateY(-1px);
+  }
+}
+
+@media (max-width: 640px) {
+  .hy-cv-item {
+    padding: 0.85rem 0.95rem 0.95rem;
+  }
+
+  .hy-cv-item__org { font-size: 0.98rem; }
+  .hy-cv-item__role { font-size: 0.92rem; }
+  .hy-cv-item__date { font-size: 0.78rem; }
+}
+
+/* ==========================================================================
+   Visitor map block (about page) — host for ClustrMaps / similar widget.
+   ========================================================================== */
+
+.hy-visitors {
+  margin: 1.25rem 0 0;
+  padding: 1.5rem 1.25rem 1.25rem;
+  background: #f9fafb;
+  border: 1px solid $hy-card-border;
+  border-radius: 10px;
+  text-align: center;
+
+  /* busuanzi counters --------------------------------------------------- */
+  &__counters {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem 2.5rem;
+    margin: 0 0 1.1rem;
+  }
+
+  /* Counter starts hidden via inline style="display:none;" — busuanzi
+     clears that on load, falling back to this flex layout. */
+  &__counter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.2rem;
+    min-width: 110px;
+  }
+
+  &__num {
+    font-size: 1.85rem;
+    font-weight: 700;
+    color: $hy-text-strong;
+    line-height: 1.1;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -0.01em;
+
+    span { color: inherit; font-weight: inherit; }
+  }
+
+  &__label {
+    font-size: 0.74rem;
+    color: $hy-text-muted;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 600;
+    margin-top: 0.15rem;
+  }
+
+  /* Flag Counter / map area -------------------------------------------- */
+  &__map {
+    margin: 0.5rem 0 0;
+
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 6px;
+    }
+
+    a {
+      border-bottom: 0 !important;
+      display: inline-block;
+    }
+  }
+
+  &__placeholder {
+    margin: 0;
+    padding: 1.1rem;
+    color: $hy-text-muted;
+    font-size: 0.92rem;
+    line-height: 1.5;
+    background: #ffffff;
+    border: 1px dashed $hy-card-border;
+    border-radius: 8px;
+  }
+
+  &__note {
+    margin: 1rem 0 0;
+    font-size: 0.82rem;
+    color: $hy-text-muted;
+
+    a {
+      color: $hy-accent;
+      border-bottom: 1px solid rgba($hy-accent, 0.25);
+
+      &:hover { border-bottom-color: $hy-accent; }
+    }
+  }
+}
+
+@media (max-width: 640px) {
+  .hy-visitors {
+    padding: 1.2rem 0.95rem 1rem;
+
+    &__counters { gap: 0.75rem 1.75rem; }
+    &__num { font-size: 1.55rem; }
+    &__label { font-size: 0.7rem; }
+  }
+}
+

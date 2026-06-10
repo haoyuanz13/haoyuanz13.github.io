@@ -1,0 +1,47 @@
+{% include base_path %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+{% assign chip_modifier = "" %}
+{% if post.type contains "Research" %}
+  {% assign chip_modifier = " works-item__chip--research" %}
+{% elsif post.type contains "Academic" %}
+  {% assign chip_modifier = " works-item__chip--academic" %}
+{% elsif post.type contains "Course" %}
+  {% assign chip_modifier = " works-item__chip--course" %}
+{% endif %}
+
+<article class="works-item" itemscope itemtype="http://schema.org/CreativeWork">
+  <h3 class="works-item__title" itemprop="headline">
+    {% if post.link %}
+      <a href="{{ post.link }}">{{ title }}</a>
+    {% else %}
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+    {% endif %}
+  </h3>
+
+  <div class="works-item__meta">
+    {% if post.type %}
+      <span class="works-item__chip{{ chip_modifier }}">{{ post.type }}</span>
+    {% endif %}
+    {% if post.venue %}
+      <span class="works-item__venue"><i class="fa fa-university" aria-hidden="true"></i>&nbsp;{{ post.venue }}</span>
+    {% endif %}
+    {% if post.location %}
+      <span class="works-item__meta-sep">·</span>
+      <span class="works-item__location"><i class="fa fa-map-marker" aria-hidden="true"></i>&nbsp;{{ post.location }}</span>
+    {% endif %}
+    {% if post.date %}
+      <span class="works-item__meta-sep">·</span>
+      <span class="works-item__date"><i class="fa fa-calendar-o" aria-hidden="true"></i>&nbsp;{{ post.date | date: "%b %Y" }}</span>
+    {% endif %}
+  </div>
+
+  {% if post.excerpt %}
+    <div class="works-item__excerpt" itemprop="description">{{ post.excerpt | markdownify }}</div>
+  {% endif %}
+</article>

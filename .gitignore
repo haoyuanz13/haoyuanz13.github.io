@@ -1,2 +1,7 @@
 _site/
 
+# Local dev artifacts (Ruby version manager + bundler lock)
+.ruby-version
+Gemfile.lock
+.bundle/
+vendor/
