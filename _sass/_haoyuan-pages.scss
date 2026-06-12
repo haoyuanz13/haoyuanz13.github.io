@@ -175,6 +175,7 @@ $hy-chip-fg     : #1d4ed8;
    ========================================================================== */
 
 .hy-cv-item {
+  position: relative;
   padding: 0.95rem 1.15rem 1.05rem;
   margin: 0.55rem 0 0.7rem;
   background: #ffffff;
@@ -195,6 +196,135 @@ $hy-chip-fg     : #1d4ed8;
   p + p { margin-top: 0.35rem; }
 }
 
+/* Timeline wrapper — vertical spine with dotted entries (Education / Work). */
+.hy-cv-timeline {
+  position: relative;
+  margin: 0.5rem 0 1.25rem;
+  padding: 0.25rem 0 0.25rem 2.5rem;
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: 9px;
+    top: 0.4rem;
+    bottom: 0.4rem;
+    width: 2px;
+    background: linear-gradient(
+      to bottom,
+      rgba($hy-card-border, 0) 0%,
+      $hy-card-border 8%,
+      $hy-card-border 92%,
+      rgba($hy-card-border, 0) 100%
+    );
+    border-radius: 2px;
+  }
+
+  /* Dot sitting on the spine for each card. */
+  .hy-cv-item::before {
+    content: "";
+    position: absolute;
+    left: -1.96rem;
+    top: 1.25rem;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: $hy-accent;
+    border: 2px solid #ffffff;
+    box-shadow: 0 0 0 2px rgba($hy-accent, 0.22);
+    z-index: 2;
+    transition: background 0.18s ease, box-shadow 0.18s ease;
+  }
+
+  /* Short connector from spine dot to card edge. */
+  .hy-cv-item::after {
+    content: "";
+    position: absolute;
+    left: -1.4rem;
+    top: 1.7rem;
+    width: 1.25rem;
+    height: 2px;
+    background: $hy-card-border;
+  }
+
+  .hy-cv-item:hover::before {
+    box-shadow: 0 0 0 3px rgba($hy-accent, 0.3);
+  }
+}
+
+/* Year marker on the timeline — bigger ringed dot, like Works page. */
+.hy-cv-year {
+  position: relative;
+  margin: 1.5rem 0 0.85rem;
+  padding: 0;
+  font-family: $sans-serif;
+  font-size: 1.18rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  color: $hy-text-strong;
+  line-height: 1;
+}
+
+.hy-cv-timeline .hy-cv-year:first-child { margin-top: 0.35rem; }
+
+.hy-cv-timeline .hy-cv-year::before {
+  content: "";
+  position: absolute;
+  left: -2.27rem;
+  top: 50%;
+  width: 22px;
+  height: 22px;
+  margin-top: -11px;
+  border-radius: 50%;
+  background: #ffffff;
+  border: 3px solid $hy-accent;
+  box-shadow: 0 0 0 3px #ffffff, 0 0 0 4px rgba($hy-accent, 0.18);
+  z-index: 3;
+}
+
+/* "Present" year marker — green ring + green text to match the current item. */
+.hy-cv-timeline .hy-cv-year--current {
+  color: #047857;
+  font-size: 1.05rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.hy-cv-timeline .hy-cv-year--current::before {
+  border-color: #10b981;
+  box-shadow: 0 0 0 3px #ffffff, 0 0 0 4px rgba(#10b981, 0.22);
+}
+
+/* Current-role variant — green dot + glow on the spine. */
+.hy-cv-timeline .hy-cv-item--current::before {
+  background: #10b981;
+  box-shadow: 0 0 0 2px rgba(#10b981, 0.25);
+}
+
+.hy-cv-timeline .hy-cv-item--current:hover::before {
+  box-shadow: 0 0 0 3px rgba(#10b981, 0.35);
+}
+
+/* Inline chip for header (e.g. "Present" badge on current job). */
+.hy-cv-item__chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.08rem 0.5rem;
+  margin-left: 0.25rem;
+  border-radius: 999px;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  line-height: 1.35;
+  vertical-align: 0.08em;
+
+  &--present {
+    background: #ecfdf5;
+    color: #047857;
+    border: 1px solid rgba(#10b981, 0.3);
+  }
+}
+
 .hy-cv-item__head {
   display: flex;
   flex-wrap: wrap;
@@ -205,6 +335,9 @@ $hy-chip-fg     : #1d4ed8;
 }
 
 .hy-cv-item__org {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
   font-size: 1.04rem;
   font-weight: 700;
   color: $hy-text-strong;
@@ -217,6 +350,15 @@ $hy-chip-fg     : #1d4ed8;
 
     &:hover { color: $hy-accent; }
   }
+}
+
+.hy-cv-item__logo {
+  flex: 0 0 auto;
+  height: 1.7em;
+  width: auto;
+  max-width: 5em;
+  object-fit: contain;
+  display: block;
 }
 
 .hy-cv-item__date {
@@ -332,6 +474,38 @@ $hy-chip-fg     : #1d4ed8;
   .hy-cv-item__org { font-size: 0.98rem; }
   .hy-cv-item__role { font-size: 0.92rem; }
   .hy-cv-item__date { font-size: 0.78rem; }
+
+  .hy-cv-timeline {
+    padding-left: 1.85rem;
+
+    &::before { left: 6px; }
+
+    .hy-cv-item::before {
+      left: -1.55rem;
+      top: 1.05rem;
+      width: 10px;
+      height: 10px;
+    }
+
+    .hy-cv-item::after {
+      left: -1.05rem;
+      top: 1.2rem;
+      width: 0.95rem;
+    }
+
+    .hy-cv-year {
+      font-size: 1.05rem;
+      margin: 1.2rem 0 0.7rem;
+
+      &::before {
+        left: -1.8rem;
+        width: 18px;
+        height: 18px;
+        margin-top: -9px;
+        border-width: 2px;
+      }
+    }
+  }
 }
 
 /* ==========================================================================
