@@ -1,5 +1,8 @@
 _site/
 
+# macOS metadata
+.DS_Store
+
 # Local dev artifacts (Ruby version manager + bundler lock)
 .ruby-version
 Gemfile.lock
