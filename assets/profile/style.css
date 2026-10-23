@@ -52,3 +52,18 @@
 
 .about{row-gap:28px}.about-heading{grid-column:1 / -1}.about .about-heading .eyebrow{margin-bottom:14px}.about-copy>p:first-child{margin-top:0}.experience{padding-top:0}.about-heading+.about-copy{min-width:0}
 @media(max-width:700px){.about{row-gap:26px}.about-heading{grid-column:auto}}
+
+/* Keep education and work experience aligned as two equal lists. */
+.about>.about-copy{grid-column:1 / -1;max-width:850px}
+.about>.education,.about>.experience{display:flex;flex-direction:column;margin:0;padding:0;border:0;min-width:0}
+.about>.education>h3.eyebrow,.about>.experience>.eyebrow{font-size:10px;line-height:1.5;letter-spacing:1.8px;margin:0 0 24px;font-weight:650}
+.about>.education>ol,.about>.experience>ol{display:grid;grid-template-rows:repeat(4,minmax(84px,1fr));flex:1;margin:0;padding:0;list-style:none}
+.about>.education li,.about>.experience li{display:grid;grid-template-columns:12px minmax(0,1fr) auto;gap:15px;position:relative;margin:0;padding:0 0 24px;align-content:start}
+.about>.education li::before{content:"";position:absolute;left:4px;top:12px;bottom:0;width:1px;background:var(--line)}
+.about>.education li:last-child::before{display:none}
+.about>.education li:last-child,.about>.experience li:last-child{padding-bottom:0}
+.about>.education .timeline-dot,.about>.experience .timeline-dot{margin-top:10px}
+.about>.education h4,.about>.experience h3{font-size:13px;line-height:1.5;letter-spacing:-.2px;font-weight:550;margin:0;min-height:28px;align-items:center}
+.about>.education li p,.about>.experience li p{font-size:11px;line-height:1.7;padding-left:37px;margin:7px 0 0;color:var(--muted)}
+.about>.education time,.about>.experience time{font-size:9px;margin-top:7px;white-space:nowrap}
+@media(max-width:700px){.about>.about-copy{grid-column:auto}.about>.education>ol,.about>.experience>ol{grid-template-rows:none;display:block}.about>.education li,.about>.experience li{grid-template-columns:9px minmax(0,1fr) auto;gap:10px;padding-bottom:25px}.about>.education h4,.about>.experience h3{font-size:12px;min-height:24px}.about>.education li p,.about>.experience li p{font-size:10px;padding-left:32px}.about>.education time,.about>.experience time{font-size:8px;margin-top:5px}.about>.education .timeline-dot,.about>.experience .timeline-dot{margin-top:8px}}
