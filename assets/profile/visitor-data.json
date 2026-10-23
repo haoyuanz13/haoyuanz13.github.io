@@ -1,0 +1,287 @@
+{
+  "source": "https://s01.flagcounter.com/countries/GMWI/",
+  "updated": "2026-10-23",
+  "data": [
+    {
+      "name": "United States",
+      "visitors": 132,
+      "longitude": -98,
+      "latitude": 39
+    },
+    {
+      "name": "China",
+      "visitors": 79,
+      "longitude": 104,
+      "latitude": 35
+    },
+    {
+      "name": "Singapore",
+      "visitors": 24,
+      "longitude": 103.8,
+      "latitude": 1.35
+    },
+    {
+      "name": "Hong Kong",
+      "visitors": 16,
+      "longitude": 114.2,
+      "latitude": 22.3
+    },
+    {
+      "name": "United Kingdom",
+      "visitors": 6,
+      "longitude": -2,
+      "latitude": 54
+    },
+    {
+      "name": "Canada",
+      "visitors": 5,
+      "longitude": -106,
+      "latitude": 57
+    },
+    {
+      "name": "Australia",
+      "visitors": 2,
+      "longitude": 134,
+      "latitude": -25
+    },
+    {
+      "name": "Sweden",
+      "visitors": 1,
+      "longitude": 15,
+      "latitude": 62
+    },
+    {
+      "name": "Belarus",
+      "visitors": 1,
+      "longitude": 28,
+      "latitude": 54
+    },
+    {
+      "name": "Netherlands",
+      "visitors": 1,
+      "longitude": 5,
+      "latitude": 52
+    },
+    {
+      "name": "Luxembourg",
+      "visitors": 1,
+      "longitude": 6,
+      "latitude": 49.8
+    },
+    {
+      "name": "Poland",
+      "visitors": 1,
+      "longitude": 19,
+      "latitude": 52
+    }
+  ],
+  "regional_data": [
+    {
+      "name": "Colorado",
+      "country": "United States",
+      "visitors": 27,
+      "longitude": -105.5,
+      "latitude": 39,
+      "level": "state"
+    },
+    {
+      "name": "Iowa",
+      "country": "United States",
+      "visitors": 25,
+      "longitude": -93.5,
+      "latitude": 42,
+      "level": "state"
+    },
+    {
+      "name": "Virginia",
+      "country": "United States",
+      "visitors": 15,
+      "longitude": -79,
+      "latitude": 37.5,
+      "level": "state"
+    },
+    {
+      "name": "California",
+      "country": "United States",
+      "visitors": 13,
+      "longitude": -119.5,
+      "latitude": 37.2,
+      "level": "state"
+    },
+    {
+      "name": "Georgia",
+      "country": "United States",
+      "visitors": 10,
+      "longitude": -83.5,
+      "latitude": 32.5,
+      "level": "state"
+    },
+    {
+      "name": "Texas",
+      "country": "United States",
+      "visitors": 3,
+      "longitude": -99.3,
+      "latitude": 31,
+      "level": "state"
+    },
+    {
+      "name": "Ohio",
+      "country": "United States",
+      "visitors": 3,
+      "longitude": -82.8,
+      "latitude": 40.3,
+      "level": "state"
+    },
+    {
+      "name": "Washington",
+      "country": "United States",
+      "visitors": 3,
+      "longitude": -120.7,
+      "latitude": 47.4,
+      "level": "state"
+    },
+    {
+      "name": "New Jersey",
+      "country": "United States",
+      "visitors": 2,
+      "longitude": -74.5,
+      "latitude": 40.1,
+      "level": "state"
+    },
+    {
+      "name": "Pennsylvania",
+      "country": "United States",
+      "visitors": 2,
+      "longitude": -77.8,
+      "latitude": 40.9,
+      "level": "state"
+    },
+    {
+      "name": "Oregon",
+      "country": "United States",
+      "visitors": 2,
+      "longitude": -120.6,
+      "latitude": 44,
+      "level": "state"
+    },
+    {
+      "name": "Vermont",
+      "country": "United States",
+      "visitors": 1,
+      "longitude": -72.7,
+      "latitude": 44,
+      "level": "state"
+    },
+    {
+      "name": "Michigan",
+      "country": "United States",
+      "visitors": 1,
+      "longitude": -85.5,
+      "latitude": 44.3,
+      "level": "state"
+    },
+    {
+      "name": "Mississippi",
+      "country": "United States",
+      "visitors": 1,
+      "longitude": -89.7,
+      "latitude": 32.7,
+      "level": "state"
+    },
+    {
+      "name": "Arizona",
+      "country": "United States",
+      "visitors": 1,
+      "longitude": -111.9,
+      "latitude": 34.3,
+      "level": "state"
+    },
+    {
+      "name": "Florida",
+      "country": "United States",
+      "visitors": 1,
+      "longitude": -82,
+      "latitude": 28.6,
+      "level": "state"
+    },
+    {
+      "name": "Tennessee",
+      "country": "United States",
+      "visitors": 1,
+      "longitude": -86,
+      "latitude": 35.8,
+      "level": "state"
+    },
+    {
+      "name": "New York",
+      "country": "United States",
+      "visitors": 1,
+      "longitude": -75.5,
+      "latitude": 43,
+      "level": "state"
+    },
+    {
+      "name": "Alberta",
+      "country": "Canada",
+      "visitors": 3,
+      "longitude": -115,
+      "latitude": 54.5,
+      "level": "province"
+    },
+    {
+      "name": "Ontario",
+      "country": "Canada",
+      "visitors": 2,
+      "longitude": -85,
+      "latitude": 50,
+      "level": "province"
+    }
+  ],
+  "unresolved_regions": [
+    {
+      "country": "United States",
+      "visitors": 20
+    }
+  ],
+  "coordinate_note": "Representative state/province or country locations; not visitor GPS coordinates.",
+  "illustrative_positions": {
+    "note": "Named sample locations for missing regional data; not observed visitor locations. No regional visitor counts assigned.",
+    "locations": [
+      {
+        "name": "Beijing, China",
+        "longitude": 116.4,
+        "latitude": 39.9
+      },
+      {
+        "name": "Shanghai, China",
+        "longitude": 121.5,
+        "latitude": 31.2
+      },
+      {
+        "name": "Hangzhou, China",
+        "longitude": 120.2,
+        "latitude": 30.3
+      },
+      {
+        "name": "Shenzhen, China",
+        "longitude": 114.1,
+        "latitude": 22.5
+      },
+      {
+        "name": "California, United States",
+        "longitude": -121.4,
+        "latitude": 38.5
+      },
+      {
+        "name": "Texas, United States",
+        "longitude": -97.7,
+        "latitude": 30.3
+      },
+      {
+        "name": "New York, United States",
+        "longitude": -74,
+        "latitude": 40.7
+      }
+    ]
+  }
+}

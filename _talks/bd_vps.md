@@ -7,6 +7,12 @@ venue: "PICO / Inter-Perception RD, ByteDance"
 date: 2024-05-15
 date_range: "May 2024 – Dec 2024"
 location: "Shanghai, China"
+layout: "profile-project"
+profile_organization: "ByteDance"
+profile_logo: "/assets/profile/logos/bytedance.png"
+profile_thumbnail: "/assets/profile/bd_vps.svg"
+profile_period: "2024-05"
+profile_role: "Core Developer"
 ---
 
 **Core Developer** &middot; PICO MR cloud-based mapping and localization — Visual Positioning Service (VPS).

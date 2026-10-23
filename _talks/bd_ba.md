@@ -7,6 +7,12 @@ venue: "PICO / Inter-Perception RD, ByteDance"
 date: 2024-03-15
 date_range: "Mar 2024 – Dec 2024"
 location: "Shanghai, China"
+layout: "profile-project"
+profile_organization: "ByteDance"
+profile_logo: "/assets/profile/logos/bytedance.png"
+profile_thumbnail: "/assets/profile/bd_ba.svg"
+profile_period: "2024-03"
+profile_role: "Project Owner"
 ---
 
 **Project Owner** &middot; High-performance Bundle Adjustment for large-scale scenes — Ceres CUDA, FastBA, MegBA.

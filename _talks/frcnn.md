@@ -6,6 +6,11 @@ permalink: /talks/frcnn
 venue: "CIS Department@UPenn"
 date: 2017-10-15
 location: "Philadelphia, PA"
+layout: "profile-project"
+profile_organization: "University of Pennsylvania"
+profile_logo: "/assets/profile/logos/upenn.svg"
+profile_thumbnail: "/assets/profile/frcnn.svg"
+profile_period: "2017-10"
 ---
 
 *[`source code`](https://github.com/haoyuanz13/Deep_Learning/tree/master/FasterRCNN)*          

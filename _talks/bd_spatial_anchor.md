@@ -7,6 +7,12 @@ venue: "PICO / Inter-Perception RD, ByteDance"
 date: 2022-06-15
 date_range: "Jun 2022 – Dec 2024"
 location: "Shanghai, China"
+layout: "profile-project"
+profile_organization: "ByteDance"
+profile_logo: "/assets/profile/logos/bytedance.png"
+profile_thumbnail: "/assets/profile/bd_spatial_anchor.svg"
+profile_period: "2022-06"
+profile_role: "Project Owner"
 ---
 
 **Project Owner** &middot; Vision-based, low-cost mapping and localization powering MR Spatial Anchors on PICO headsets.

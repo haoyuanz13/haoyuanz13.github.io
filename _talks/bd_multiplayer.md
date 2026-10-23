@@ -7,6 +7,12 @@ venue: "PICO / Inter-Perception RD, ByteDance"
 date: 2023-03-15
 date_range: "Mar 2023 – Dec 2024"
 location: "Shanghai, China"
+layout: "profile-project"
+profile_organization: "ByteDance"
+profile_logo: "/assets/profile/logos/bytedance.png"
+profile_thumbnail: "/assets/profile/bd_multiplayer.svg"
+profile_period: "2023-03"
+profile_role: "Core Developer"
 ---
 
 **Core Developer** &middot; Real-time sharing and localization of anchor maps across multiple devices, enabling multi-player MR games.

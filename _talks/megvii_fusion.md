@@ -7,6 +7,12 @@ venue: "Research / SLAM Dev, MEGVII"
 date: 2019-12-15
 date_range: "Dec 2019 – Mar 2021"
 location: "Beijing, China"
+layout: "profile-project"
+profile_organization: "MEGVII"
+profile_logo: "/assets/profile/logos/megvii.png"
+profile_thumbnail: "/assets/profile/megvii_fusion.svg"
+profile_period: "2019-12"
+profile_role: "Project Owner"
 ---
 
 **Project Owner** &middot; AGV-level multi-sensor fusion module for static and dynamic obstacle state estimation.

@@ -7,6 +7,12 @@ venue: "PICO / Inter-Perception RD, ByteDance"
 date: 2022-05-15
 date_range: "May 2022 – Jan 2024"
 location: "Shanghai, China"
+layout: "profile-project"
+profile_organization: "ByteDance"
+profile_logo: "/assets/profile/logos/bytedance.png"
+profile_thumbnail: "/assets/profile/bd_line_vio.svg"
+profile_period: "2022-05"
+profile_role: "Project Owner"
 ---
 
 **Project Owner** &middot; Line-feature based VIO designed to improve re-localization performance on MR headsets.

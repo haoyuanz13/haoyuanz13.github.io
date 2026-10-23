@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "BJ-CHN"
+locale                   : "en-US"
 title                    : "Haoyuan Zhang / 张皓原"
 title_separator          : "-"
 name                     : &name "haoyuan.zhang"
-description              : &description "personal description"
+description              : &description "Haoyuan Zhang — mapping, localization, sensor fusion, and 3D vision."
 url                      : https://haoyuanz13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haoyuanz13/haoyuanz13.github.io"

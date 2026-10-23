@@ -7,6 +7,12 @@ venue: "PICO / Inter-Perception RD, ByteDance"
 date: 2021-12-15
 date_range: "Dec 2021 – Feb 2022"
 location: "Shanghai, China"
+layout: "profile-project"
+profile_organization: "ByteDance"
+profile_logo: "/assets/profile/logos/bytedance.png"
+profile_thumbnail: "/assets/profile/bd_rolling_shutter.svg"
+profile_period: "2021-12"
+profile_role: "Project Owner"
 ---
 
 **Project Owner** &middot; Use IMU data to compensate for the rolling-shutter "jelly" effect in RGB cameras under fast motion.

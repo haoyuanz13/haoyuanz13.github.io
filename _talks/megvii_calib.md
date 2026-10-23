@@ -7,6 +7,12 @@ venue: "Research / SLAM Dev, MEGVII"
 date: 2020-12-15
 date_range: "Dec 2020 – Mar 2021"
 location: "Beijing, China"
+layout: "profile-project"
+profile_organization: "MEGVII"
+profile_logo: "/assets/profile/logos/megvii.png"
+profile_thumbnail: "/assets/profile/megvii_calib.svg"
+profile_period: "2020-12"
+profile_role: "Core Developer"
 ---
 
 **Core Developer** &middot; Multi-camera and lidar extrinsic calibration with a re-engineered workflow.
