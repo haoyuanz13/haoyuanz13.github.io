@@ -137,6 +137,7 @@ exclude:
   - LICENSE
   - log
   - node_modules
+  - scripts
   - package.json
   - Rakefile
   - README

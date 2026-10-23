@@ -4,72 +4,84 @@
   "data": [
     {
       "name": "United States",
+      "code": "us",
       "visitors": 132,
       "longitude": -98,
       "latitude": 39
     },
     {
       "name": "China",
+      "code": "cn",
       "visitors": 79,
       "longitude": 104,
       "latitude": 35
     },
     {
       "name": "Singapore",
+      "code": "sg",
       "visitors": 24,
       "longitude": 103.8,
       "latitude": 1.35
     },
     {
       "name": "Hong Kong",
+      "code": "hk",
       "visitors": 16,
       "longitude": 114.2,
       "latitude": 22.3
     },
     {
       "name": "United Kingdom",
+      "code": "gb",
       "visitors": 6,
       "longitude": -2,
       "latitude": 54
     },
     {
       "name": "Canada",
+      "code": "ca",
       "visitors": 5,
       "longitude": -106,
       "latitude": 57
     },
     {
       "name": "Australia",
+      "code": "au",
       "visitors": 2,
       "longitude": 134,
       "latitude": -25
     },
     {
       "name": "Sweden",
+      "code": "se",
       "visitors": 1,
       "longitude": 15,
       "latitude": 62
     },
     {
       "name": "Belarus",
+      "code": "by",
       "visitors": 1,
       "longitude": 28,
       "latitude": 54
     },
     {
       "name": "Netherlands",
+      "code": "nl",
       "visitors": 1,
       "longitude": 5,
       "latitude": 52
     },
     {
       "name": "Luxembourg",
+      "code": "lu",
       "visitors": 1,
       "longitude": 6,
       "latitude": 49.8
     },
     {
       "name": "Poland",
+      "code": "pl",
       "visitors": 1,
       "longitude": 19,
       "latitude": 52
@@ -79,162 +91,182 @@
     {
       "name": "Colorado",
       "country": "United States",
+      "country_code": "us",
       "visitors": 27,
-      "longitude": -105.5,
-      "latitude": 39,
-      "level": "state"
+      "level": "state",
+      "longitude": -105.543,
+      "latitude": 38.9998
     },
     {
       "name": "Iowa",
       "country": "United States",
+      "country_code": "us",
       "visitors": 25,
-      "longitude": -93.5,
-      "latitude": 42,
-      "level": "state"
+      "level": "state",
+      "longitude": -93.3891,
+      "latitude": 42.0423
     },
     {
       "name": "Virginia",
       "country": "United States",
+      "country_code": "us",
       "visitors": 15,
-      "longitude": -79,
-      "latitude": 37.5,
-      "level": "state"
+      "level": "state",
+      "longitude": -78.2431,
+      "latitude": 37.7403
     },
     {
       "name": "California",
       "country": "United States",
+      "country_code": "us",
       "visitors": 13,
-      "longitude": -119.5,
-      "latitude": 37.2,
-      "level": "state"
+      "level": "state",
+      "longitude": -119.591,
+      "latitude": 36.7496
     },
     {
       "name": "Georgia",
       "country": "United States",
+      "country_code": "us",
       "visitors": 10,
-      "longitude": -83.5,
-      "latitude": 32.5,
-      "level": "state"
+      "level": "state",
+      "longitude": -83.4078,
+      "latitude": 32.8547
     },
     {
       "name": "Texas",
       "country": "United States",
+      "country_code": "us",
       "visitors": 3,
-      "longitude": -99.3,
-      "latitude": 31,
-      "level": "state"
+      "level": "state",
+      "longitude": -98.7607,
+      "latitude": 31.131
     },
     {
       "name": "Ohio",
       "country": "United States",
+      "country_code": "us",
       "visitors": 3,
-      "longitude": -82.8,
-      "latitude": 40.3,
-      "level": "state"
+      "level": "state",
+      "longitude": -82.6719,
+      "latitude": 40.0924
     },
     {
       "name": "Washington",
       "country": "United States",
+      "country_code": "us",
       "visitors": 3,
-      "longitude": -120.7,
-      "latitude": 47.4,
-      "level": "state"
+      "level": "state",
+      "longitude": -120.361,
+      "latitude": 47.4865
     },
     {
       "name": "New Jersey",
       "country": "United States",
+      "country_code": "us",
       "visitors": 2,
-      "longitude": -74.5,
-      "latitude": 40.1,
-      "level": "state"
+      "level": "state",
+      "longitude": -74.4653,
+      "latitude": 40.0449
     },
     {
       "name": "Pennsylvania",
       "country": "United States",
+      "country_code": "us",
       "visitors": 2,
-      "longitude": -77.8,
-      "latitude": 40.9,
-      "level": "state"
+      "level": "state",
+      "longitude": -77.6094,
+      "latitude": 40.8601
     },
     {
       "name": "Oregon",
       "country": "United States",
+      "country_code": "us",
       "visitors": 2,
-      "longitude": -120.6,
-      "latitude": 44,
-      "level": "state"
+      "level": "state",
+      "longitude": -120.386,
+      "latitude": 43.8333
     },
     {
       "name": "Vermont",
       "country": "United States",
+      "country_code": "us",
       "visitors": 1,
-      "longitude": -72.7,
-      "latitude": 44,
-      "level": "state"
+      "level": "state",
+      "longitude": -72.7317,
+      "latitude": 44.0886
     },
     {
       "name": "Michigan",
       "country": "United States",
+      "country_code": "us",
       "visitors": 1,
-      "longitude": -85.5,
-      "latitude": 44.3,
-      "level": "state"
+      "level": "state",
+      "longitude": -84.9479,
+      "latitude": 43.4343
     },
     {
       "name": "Mississippi",
       "country": "United States",
+      "country_code": "us",
       "visitors": 1,
-      "longitude": -89.7,
-      "latitude": 32.7,
-      "level": "state"
+      "level": "state",
+      "longitude": -89.7189,
+      "latitude": 32.8657
     },
     {
       "name": "Arizona",
       "country": "United States",
+      "country_code": "us",
       "visitors": 1,
-      "longitude": -111.9,
-      "latitude": 34.3,
-      "level": "state"
+      "level": "state",
+      "longitude": -111.935,
+      "latitude": 34.3046
     },
     {
       "name": "Florida",
       "country": "United States",
+      "country_code": "us",
       "visitors": 1,
-      "longitude": -82,
-      "latitude": 28.6,
-      "level": "state"
+      "level": "state",
+      "longitude": -81.6228,
+      "latitude": 28.1568
     },
     {
       "name": "Tennessee",
       "country": "United States",
+      "country_code": "us",
       "visitors": 1,
-      "longitude": -86,
-      "latitude": 35.8,
-      "level": "state"
+      "level": "state",
+      "longitude": -86.3415,
+      "latitude": 35.7514
     },
     {
       "name": "New York",
       "country": "United States",
+      "country_code": "us",
       "visitors": 1,
-      "longitude": -75.5,
-      "latitude": 43,
-      "level": "state"
+      "level": "state",
+      "longitude": -75.3242,
+      "latitude": 43.1988
     },
     {
       "name": "Alberta",
       "country": "Canada",
+      "country_code": "ca",
       "visitors": 3,
+      "level": "province",
       "longitude": -115,
-      "latitude": 54.5,
-      "level": "province"
+      "latitude": 55.2816
     },
     {
       "name": "Ontario",
       "country": "Canada",
+      "country_code": "ca",
       "visitors": 2,
-      "longitude": -85,
-      "latitude": 50,
-      "level": "province"
+      "level": "province",
+      "longitude": -84.7943,
+      "latitude": 50.5244
     }
   ],
   "unresolved_regions": [
@@ -283,5 +315,9 @@
         "latitude": 40.7
       }
     ]
-  }
+  },
+  "total_visitors": 269,
+  "total_countries": 12,
+  "schema_version": 2,
+  "updated_at": "2026-10-23T11:51:28+00:00"
 }

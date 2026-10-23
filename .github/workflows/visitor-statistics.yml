@@ -1,0 +1,50 @@
+name: Refresh visitor statistics
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/visitor-statistics.yml'
+      - 'scripts/update-visitors.py'
+      - 'scripts/visitor-locations.json'
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: visitor-statistics
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+      - name: Refresh public country and regional counts
+        run: python3 scripts/update-visitors.py
+      - name: Save updated statistics and publish the refreshed snapshot
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- assets/profile/visitor-data.json; then
+            echo "Statistics unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile/visitor-data.json
+          git commit -m "Update visitor statistics"
+          git pull --rebase origin master
+          git push origin HEAD:master
+          # Token-authored commits do not trigger Pages automatically.
+          curl --fail --silent --show-error --retry 3 --retry-all-errors --retry-delay 10 \
+            --request POST \
+            --header "Authorization: Bearer ${GH_TOKEN}" \
+            --header "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/pages/builds" > /dev/null

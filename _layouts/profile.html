@@ -23,6 +23,7 @@
 <header class="header"><nav class="container nav" aria-label="Home"><a class="brand" href="{{ '/' | relative_url }}" aria-label="Haoyuan Zhang home">hz<span>.</span></a></nav></header>
 <main id="main" class="container{% unless page.profile_home %} subpage{% endunless %}">{{ content }}</main>
 <footer class="container footer"><span>© {{ site.time | date: "%Y" }} Haoyuan Zhang <span lang="zh">/ 张皓原</span></span><div><a href="https://github.com/haoyuanz13">GitHub ↗</a><a href="https://www.linkedin.com/in/haoyuanz">LinkedIn ↗</a><a href="mailto:haoyuanzgoahead@outlook.com">Email ↗</a></div></footer>
+<script src="{{ '/assets/profile/visitor-counter.js' | relative_url }}" defer></script>
 {% if page.profile_home %}<script src="{{ '/assets/profile/visitor-map.js' | relative_url }}" defer></script>{% endif %}
 {% if page.profile_catalogue %}<script src="{{ '/assets/profile/pages.js' | relative_url }}" defer></script>{% endif %}
 </body>
