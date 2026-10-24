@@ -1,11 +1,11 @@
 {
   "source": "https://s01.flagcounter.com/countries/GMWI/",
-  "updated": "2026-10-23",
+  "updated": "2026-10-24",
   "data": [
     {
       "name": "United States",
       "code": "us",
-      "visitors": 132,
+      "visitors": 133,
       "longitude": -98,
       "latitude": 39
     },
@@ -135,7 +135,7 @@
       "name": "Georgia",
       "country": "United States",
       "country_code": "us",
-      "visitors": 10,
+      "visitors": 11,
       "level": "state",
       "longitude": -83.4078,
       "latitude": 32.8547
@@ -323,8 +323,8 @@
       }
     ]
   },
-  "total_visitors": 272,
+  "total_visitors": 273,
   "total_countries": 13,
   "schema_version": 2,
-  "updated_at": "2026-10-23T16:17:17+00:00"
+  "updated_at": "2026-10-24T01:34:04+00:00"
 }
