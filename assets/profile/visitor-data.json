@@ -5,7 +5,7 @@
     {
       "name": "United States",
       "code": "us",
-      "visitors": 133,
+      "visitors": 134,
       "longitude": -98,
       "latitude": 39
     },
@@ -108,7 +108,7 @@
       "name": "Iowa",
       "country": "United States",
       "country_code": "us",
-      "visitors": 25,
+      "visitors": 26,
       "level": "state",
       "longitude": -93.3891,
       "latitude": 42.0423
@@ -323,8 +323,8 @@
       }
     ]
   },
-  "total_visitors": 273,
+  "total_visitors": 274,
   "total_countries": 13,
   "schema_version": 2,
-  "updated_at": "2026-10-24T01:34:04+00:00"
+  "updated_at": "2026-10-24T11:27:01+00:00"
 }
