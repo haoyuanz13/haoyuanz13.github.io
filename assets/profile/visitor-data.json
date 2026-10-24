@@ -5,7 +5,7 @@
     {
       "name": "United States",
       "code": "us",
-      "visitors": 134,
+      "visitors": 135,
       "longitude": -98,
       "latitude": 39
     },
@@ -50,6 +50,13 @@
       "visitors": 2,
       "longitude": 134,
       "latitude": -25
+    },
+    {
+      "name": "Brazil",
+      "code": "br",
+      "visitors": 1,
+      "longitude": -49.55945,
+      "latitude": -12.098687
     },
     {
       "name": "Japan",
@@ -279,7 +286,7 @@
   "unresolved_regions": [
     {
       "country": "United States",
-      "visitors": 20
+      "visitors": 21
     }
   ],
   "coordinate_note": "Representative state/province or country locations; not visitor GPS coordinates.",
@@ -323,8 +330,8 @@
       }
     ]
   },
-  "total_visitors": 274,
-  "total_countries": 13,
+  "total_visitors": 276,
+  "total_countries": 14,
   "schema_version": 2,
-  "updated_at": "2026-10-24T11:27:01+00:00"
+  "updated_at": "2026-10-24T17:46:01+00:00"
 }
