@@ -5,14 +5,14 @@
     {
       "name": "United States",
       "code": "us",
-      "visitors": 135,
+      "visitors": 136,
       "longitude": -98,
       "latitude": 39
     },
     {
       "name": "China",
       "code": "cn",
-      "visitors": 82,
+      "visitors": 83,
       "longitude": 104,
       "latitude": 35
     },
@@ -103,6 +103,15 @@
   ],
   "regional_data": [
     {
+      "name": "Iowa",
+      "country": "United States",
+      "country_code": "us",
+      "visitors": 27,
+      "level": "state",
+      "longitude": -93.3891,
+      "latitude": 42.0423
+    },
+    {
       "name": "Colorado",
       "country": "United States",
       "country_code": "us",
@@ -110,15 +119,6 @@
       "level": "state",
       "longitude": -105.543,
       "latitude": 38.9998
-    },
-    {
-      "name": "Iowa",
-      "country": "United States",
-      "country_code": "us",
-      "visitors": 26,
-      "level": "state",
-      "longitude": -93.3891,
-      "latitude": 42.0423
     },
     {
       "name": "Virginia",
@@ -330,8 +330,8 @@
       }
     ]
   },
-  "total_visitors": 277,
+  "total_visitors": 279,
   "total_countries": 14,
   "schema_version": 2,
-  "updated_at": "2026-10-25T00:27:14+00:00"
+  "updated_at": "2026-10-25T14:03:17+00:00"
 }
