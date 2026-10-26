@@ -12,7 +12,7 @@
     {
       "name": "China",
       "code": "cn",
-      "visitors": 84,
+      "visitors": 85,
       "longitude": 104,
       "latitude": 35
     },
@@ -330,8 +330,8 @@
       }
     ]
   },
-  "total_visitors": 281,
+  "total_visitors": 282,
   "total_countries": 14,
   "schema_version": 2,
-  "updated_at": "2026-10-26T05:17:57+00:00"
+  "updated_at": "2026-10-26T17:30:37+00:00"
 }
