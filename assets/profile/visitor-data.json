@@ -1,6 +1,6 @@
 {
   "source": "https://s01.flagcounter.com/countries/GMWI/",
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "data": [
     {
       "name": "United States",
@@ -12,7 +12,7 @@
     {
       "name": "China",
       "code": "cn",
-      "visitors": 83,
+      "visitors": 84,
       "longitude": 104,
       "latitude": 35
     },
@@ -330,8 +330,8 @@
       }
     ]
   },
-  "total_visitors": 280,
+  "total_visitors": 281,
   "total_countries": 14,
   "schema_version": 2,
-  "updated_at": "2026-10-25T22:18:58+00:00"
+  "updated_at": "2026-10-26T05:17:57+00:00"
 }
