@@ -45,18 +45,18 @@
       "latitude": 57
     },
     {
+      "name": "Brazil",
+      "code": "br",
+      "visitors": 2,
+      "longitude": -49.55945,
+      "latitude": -12.098687
+    },
+    {
       "name": "Australia",
       "code": "au",
       "visitors": 2,
       "longitude": 134,
       "latitude": -25
-    },
-    {
-      "name": "Brazil",
-      "code": "br",
-      "visitors": 1,
-      "longitude": -49.55945,
-      "latitude": -12.098687
     },
     {
       "name": "Japan",
@@ -330,8 +330,8 @@
       }
     ]
   },
-  "total_visitors": 286,
+  "total_visitors": 287,
   "total_countries": 14,
   "schema_version": 2,
-  "updated_at": "2026-10-27T12:19:04+00:00"
+  "updated_at": "2026-10-27T18:08:51+00:00"
 }
