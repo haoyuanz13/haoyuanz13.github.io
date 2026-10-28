@@ -5,7 +5,7 @@
     {
       "name": "United States",
       "code": "us",
-      "visitors": 142,
+      "visitors": 143,
       "longitude": -98,
       "latitude": 39
     },
@@ -135,6 +135,15 @@
       "latitude": 38.9998
     },
     {
+      "name": "Georgia",
+      "country": "United States",
+      "country_code": "us",
+      "visitors": 16,
+      "level": "state",
+      "longitude": -83.4078,
+      "latitude": 32.8547
+    },
+    {
       "name": "Virginia",
       "country": "United States",
       "country_code": "us",
@@ -142,15 +151,6 @@
       "level": "state",
       "longitude": -78.2431,
       "latitude": 37.7403
-    },
-    {
-      "name": "Georgia",
-      "country": "United States",
-      "country_code": "us",
-      "visitors": 15,
-      "level": "state",
-      "longitude": -83.4078,
-      "latitude": 32.8547
     },
     {
       "name": "California",
@@ -344,8 +344,8 @@
       }
     ]
   },
-  "total_visitors": 292,
+  "total_visitors": 293,
   "total_countries": 16,
   "schema_version": 2,
-  "updated_at": "2026-10-28T19:25:51+00:00"
+  "updated_at": "2026-10-28T23:23:22+00:00"
 }
