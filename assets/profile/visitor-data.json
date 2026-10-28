@@ -59,6 +59,13 @@
       "latitude": -25
     },
     {
+      "name": "Denmark",
+      "code": "dk",
+      "visitors": 1,
+      "longitude": 9.018163,
+      "latitude": 55.966965
+    },
+    {
       "name": "South Africa",
       "code": "za",
       "visitors": 1,
@@ -337,8 +344,8 @@
       }
     ]
   },
-  "total_visitors": 289,
-  "total_countries": 15,
+  "total_visitors": 290,
+  "total_countries": 16,
   "schema_version": 2,
-  "updated_at": "2026-10-28T01:20:09+00:00"
+  "updated_at": "2026-10-28T07:02:24+00:00"
 }
