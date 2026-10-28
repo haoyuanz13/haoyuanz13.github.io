@@ -1,6 +1,6 @@
 {
   "source": "https://s01.flagcounter.com/countries/GMWI/",
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "data": [
     {
       "name": "United States",
@@ -12,7 +12,7 @@
     {
       "name": "China",
       "code": "cn",
-      "visitors": 85,
+      "visitors": 86,
       "longitude": 104,
       "latitude": 35
     },
@@ -57,6 +57,13 @@
       "visitors": 2,
       "longitude": 134,
       "latitude": -25
+    },
+    {
+      "name": "South Africa",
+      "code": "za",
+      "visitors": 1,
+      "longitude": 23.665734,
+      "latitude": -29.708776
     },
     {
       "name": "Japan",
@@ -330,8 +337,8 @@
       }
     ]
   },
-  "total_visitors": 287,
-  "total_countries": 14,
+  "total_visitors": 289,
+  "total_countries": 15,
   "schema_version": 2,
-  "updated_at": "2026-10-27T18:08:51+00:00"
+  "updated_at": "2026-10-28T01:20:09+00:00"
 }
