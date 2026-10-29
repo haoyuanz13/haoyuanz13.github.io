@@ -1,11 +1,11 @@
 {
   "source": "https://s01.flagcounter.com/countries/GMWI/",
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "data": [
     {
       "name": "United States",
       "code": "us",
-      "visitors": 143,
+      "visitors": 144,
       "longitude": -98,
       "latitude": 39
     },
@@ -300,7 +300,7 @@
   "unresolved_regions": [
     {
       "country": "United States",
-      "visitors": 21
+      "visitors": 22
     }
   ],
   "coordinate_note": "Representative state/province or country locations; not visitor GPS coordinates.",
@@ -344,8 +344,8 @@
       }
     ]
   },
-  "total_visitors": 293,
+  "total_visitors": 294,
   "total_countries": 16,
   "schema_version": 2,
-  "updated_at": "2026-10-28T23:23:22+00:00"
+  "updated_at": "2026-10-29T02:36:21+00:00"
 }
