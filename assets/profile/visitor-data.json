@@ -59,6 +59,13 @@
       "latitude": -25
     },
     {
+      "name": "Mexico",
+      "code": "mx",
+      "visitors": 1,
+      "longitude": -102.289448,
+      "latitude": 23.919988
+    },
+    {
       "name": "France",
       "code": "fr",
       "visitors": 1,
@@ -358,8 +365,8 @@
       }
     ]
   },
-  "total_visitors": 300,
-  "total_countries": 18,
+  "total_visitors": 301,
+  "total_countries": 19,
   "schema_version": 2,
-  "updated_at": "2026-10-30T18:42:46+00:00"
+  "updated_at": "2026-10-30T22:39:38+00:00"
 }
