@@ -1,6 +1,6 @@
 {
   "source": "https://s01.flagcounter.com/countries/GMWI/",
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "data": [
     {
       "name": "United States",
@@ -47,7 +47,7 @@
     {
       "name": "Brazil",
       "code": "br",
-      "visitors": 3,
+      "visitors": 4,
       "longitude": -49.55945,
       "latitude": -12.098687
     },
@@ -365,8 +365,8 @@
       }
     ]
   },
-  "total_visitors": 301,
+  "total_visitors": 302,
   "total_countries": 19,
   "schema_version": 2,
-  "updated_at": "2026-10-30T22:39:38+00:00"
+  "updated_at": "2026-10-31T07:53:55+00:00"
 }
