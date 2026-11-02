@@ -5,7 +5,7 @@
     {
       "name": "United States",
       "code": "us",
-      "visitors": 148,
+      "visitors": 149,
       "longitude": -98,
       "latitude": 39
     },
@@ -57,6 +57,13 @@
       "visitors": 2,
       "longitude": 134,
       "latitude": -25
+    },
+    {
+      "name": "Estonia",
+      "code": "ee",
+      "visitors": 1,
+      "longitude": 25.867126,
+      "latitude": 58.724865
     },
     {
       "name": "Mexico",
@@ -159,7 +166,7 @@
       "name": "Georgia",
       "country": "United States",
       "country_code": "us",
-      "visitors": 17,
+      "visitors": 18,
       "level": "state",
       "longitude": -83.4078,
       "latitude": 32.8547
@@ -365,8 +372,8 @@
       }
     ]
   },
-  "total_visitors": 307,
-  "total_countries": 19,
+  "total_visitors": 309,
+  "total_countries": 20,
   "schema_version": 2,
-  "updated_at": "2026-11-02T08:44:39+00:00"
+  "updated_at": "2026-11-02T18:51:12+00:00"
 }
