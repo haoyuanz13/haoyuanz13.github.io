@@ -52,6 +52,13 @@
       "latitude": -12.098687
     },
     {
+      "name": "Denmark",
+      "code": "dk",
+      "visitors": 2,
+      "longitude": 9.018163,
+      "latitude": 55.966965
+    },
+    {
       "name": "France",
       "code": "fr",
       "visitors": 2,
@@ -85,13 +92,6 @@
       "visitors": 1,
       "longitude": -102.289448,
       "latitude": 23.919988
-    },
-    {
-      "name": "Denmark",
-      "code": "dk",
-      "visitors": 1,
-      "longitude": 9.018163,
-      "latitude": 55.966965
     },
     {
       "name": "South Africa",
@@ -372,8 +372,8 @@
       }
     ]
   },
-  "total_visitors": 319,
+  "total_visitors": 320,
   "total_countries": 20,
   "schema_version": 2,
-  "updated_at": "2026-11-05T09:42:10+00:00"
+  "updated_at": "2026-11-05T17:39:42+00:00"
 }
