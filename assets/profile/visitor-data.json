@@ -1,6 +1,6 @@
 {
   "source": "https://s01.flagcounter.com/countries/GMWI/",
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "data": [
     {
       "name": "United States",
@@ -78,6 +78,13 @@
       "visitors": 2,
       "longitude": 134,
       "latitude": -25
+    },
+    {
+      "name": "Morocco",
+      "code": "ma",
+      "visitors": 1,
+      "longitude": -7.187296,
+      "latitude": 31.650723
     },
     {
       "name": "Estonia",
@@ -372,8 +379,8 @@
       }
     ]
   },
-  "total_visitors": 320,
-  "total_countries": 20,
+  "total_visitors": 321,
+  "total_countries": 21,
   "schema_version": 2,
-  "updated_at": "2026-11-05T17:39:42+00:00"
+  "updated_at": "2026-11-06T03:02:31+00:00"
 }
