@@ -1,6 +1,6 @@
 {
   "source": "https://s01.flagcounter.com/countries/GMWI/",
-  "updated": "2026-11-06",
+  "updated": "2026-11-08",
   "data": [
     {
       "name": "United States",
@@ -52,18 +52,18 @@
       "latitude": -12.098687
     },
     {
+      "name": "France",
+      "code": "fr",
+      "visitors": 3,
+      "longitude": 2.552275,
+      "latitude": 46.696113
+    },
+    {
       "name": "Denmark",
       "code": "dk",
       "visitors": 3,
       "longitude": 9.018163,
       "latitude": 55.966965
-    },
-    {
-      "name": "France",
-      "code": "fr",
-      "visitors": 2,
-      "longitude": 2.552275,
-      "latitude": 46.696113
     },
     {
       "name": "Germany",
@@ -379,8 +379,8 @@
       }
     ]
   },
-  "total_visitors": 326,
+  "total_visitors": 327,
   "total_countries": 21,
   "schema_version": 2,
-  "updated_at": "2026-11-06T17:47:26+00:00"
+  "updated_at": "2026-11-08T09:20:10+00:00"
 }
