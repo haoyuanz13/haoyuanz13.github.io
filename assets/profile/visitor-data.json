@@ -1,6 +1,6 @@
 {
   "source": "https://s01.flagcounter.com/countries/GMWI/",
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "data": [
     {
       "name": "United States",
@@ -66,6 +66,13 @@
       "latitude": 55.966965
     },
     {
+      "name": "Estonia",
+      "code": "ee",
+      "visitors": 2,
+      "longitude": 25.867126,
+      "latitude": 58.724865
+    },
+    {
       "name": "Germany",
       "code": "de",
       "visitors": 2,
@@ -85,13 +92,6 @@
       "visitors": 1,
       "longitude": -7.187296,
       "latitude": 31.650723
-    },
-    {
-      "name": "Estonia",
-      "code": "ee",
-      "visitors": 1,
-      "longitude": 25.867126,
-      "latitude": 58.724865
     },
     {
       "name": "Mexico",
@@ -379,8 +379,8 @@
       }
     ]
   },
-  "total_visitors": 330,
+  "total_visitors": 331,
   "total_countries": 21,
   "schema_version": 2,
-  "updated_at": "2026-11-08T23:54:09+00:00"
+  "updated_at": "2026-11-09T04:09:12+00:00"
 }
