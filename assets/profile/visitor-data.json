@@ -5,14 +5,14 @@
     {
       "name": "United States",
       "code": "us",
-      "visitors": 158,
+      "visitors": 161,
       "longitude": -98,
       "latitude": 39
     },
     {
       "name": "China",
       "code": "cn",
-      "visitors": 97,
+      "visitors": 98,
       "longitude": 104,
       "latitude": 35
     },
@@ -167,7 +167,7 @@
       "name": "Iowa",
       "country": "United States",
       "country_code": "us",
-      "visitors": 35,
+      "visitors": 36,
       "level": "state",
       "longitude": -93.3891,
       "latitude": 42.0423
@@ -185,7 +185,7 @@
       "name": "Georgia",
       "country": "United States",
       "country_code": "us",
-      "visitors": 22,
+      "visitors": 24,
       "level": "state",
       "longitude": -83.4078,
       "latitude": 32.8547
@@ -391,8 +391,8 @@
       }
     ]
   },
-  "total_visitors": 338,
+  "total_visitors": 342,
   "total_countries": 23,
   "schema_version": 2,
-  "updated_at": "2026-11-11T07:08:34+00:00"
+  "updated_at": "2026-11-11T15:09:17+00:00"
 }
