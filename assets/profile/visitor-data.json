@@ -66,6 +66,13 @@
       "latitude": 55.966965
     },
     {
+      "name": "Serbia",
+      "code": "rs",
+      "visitors": 2,
+      "longitude": 20.787989,
+      "latitude": 44.189919
+    },
+    {
       "name": "Estonia",
       "code": "ee",
       "visitors": 2,
@@ -85,13 +92,6 @@
       "visitors": 2,
       "longitude": 134,
       "latitude": -25
-    },
-    {
-      "name": "Serbia",
-      "code": "rs",
-      "visitors": 1,
-      "longitude": 20.787989,
-      "latitude": 44.189919
     },
     {
       "name": "Taiwan",
@@ -391,8 +391,8 @@
       }
     ]
   },
-  "total_visitors": 342,
+  "total_visitors": 343,
   "total_countries": 23,
   "schema_version": 2,
-  "updated_at": "2026-11-11T15:09:17+00:00"
+  "updated_at": "2026-11-11T21:55:02+00:00"
 }
