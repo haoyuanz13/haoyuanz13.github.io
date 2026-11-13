@@ -33,7 +33,7 @@
     {
       "name": "United Kingdom",
       "code": "gb",
-      "visitors": 9,
+      "visitors": 10,
       "longitude": -2,
       "latitude": 54
     },
@@ -45,18 +45,18 @@
       "latitude": 57
     },
     {
+      "name": "France",
+      "code": "fr",
+      "visitors": 4,
+      "longitude": 2.552275,
+      "latitude": 46.696113
+    },
+    {
       "name": "Brazil",
       "code": "br",
       "visitors": 4,
       "longitude": -49.55945,
       "latitude": -12.098687
-    },
-    {
-      "name": "France",
-      "code": "fr",
-      "visitors": 3,
-      "longitude": 2.552275,
-      "latitude": 46.696113
     },
     {
       "name": "Denmark",
@@ -391,8 +391,8 @@
       }
     ]
   },
-  "total_visitors": 348,
+  "total_visitors": 350,
   "total_countries": 23,
   "schema_version": 2,
-  "updated_at": "2026-11-13T04:39:24+00:00"
+  "updated_at": "2026-11-13T12:38:15+00:00"
 }
