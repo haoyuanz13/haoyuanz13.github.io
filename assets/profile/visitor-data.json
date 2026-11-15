@@ -5,7 +5,7 @@
     {
       "name": "United States",
       "code": "us",
-      "visitors": 164,
+      "visitors": 166,
       "longitude": -98,
       "latitude": 39
     },
@@ -73,6 +73,11 @@
       "latitude": 55.966965
     },
     {
+      "name": "Taiwan",
+      "code": "tw",
+      "visitors": 2
+    },
+    {
       "name": "Estonia",
       "code": "ee",
       "visitors": 2,
@@ -92,11 +97,6 @@
       "visitors": 2,
       "longitude": 134,
       "latitude": -25
-    },
-    {
-      "name": "Taiwan",
-      "code": "tw",
-      "visitors": 1
     },
     {
       "name": "Morocco",
@@ -194,7 +194,7 @@
       "name": "Virginia",
       "country": "United States",
       "country_code": "us",
-      "visitors": 16,
+      "visitors": 17,
       "level": "state",
       "longitude": -78.2431,
       "latitude": 37.7403
@@ -326,6 +326,15 @@
       "latitude": 43.1988
     },
     {
+      "name": "Massachusetts",
+      "country": "United States",
+      "country_code": "us",
+      "visitors": 1,
+      "level": "state",
+      "longitude": -71.9993,
+      "latitude": 42.3739
+    },
+    {
       "name": "Alberta",
       "country": "Canada",
       "country_code": "ca",
@@ -391,8 +400,8 @@
       }
     ]
   },
-  "total_visitors": 355,
+  "total_visitors": 358,
   "total_countries": 23,
   "schema_version": 2,
-  "updated_at": "2026-11-15T09:55:01+00:00"
+  "updated_at": "2026-11-15T16:45:15+00:00"
 }
