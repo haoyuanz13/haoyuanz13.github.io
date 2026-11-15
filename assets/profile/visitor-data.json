@@ -5,7 +5,7 @@
     {
       "name": "United States",
       "code": "us",
-      "visitors": 163,
+      "visitors": 164,
       "longitude": -98,
       "latitude": 39
     },
@@ -347,7 +347,7 @@
   "unresolved_regions": [
     {
       "country": "United States",
-      "visitors": 23
+      "visitors": 24
     }
   ],
   "coordinate_note": "Representative state/province or country locations; not visitor GPS coordinates.",
@@ -391,8 +391,8 @@
       }
     ]
   },
-  "total_visitors": 354,
+  "total_visitors": 355,
   "total_countries": 23,
   "schema_version": 2,
-  "updated_at": "2026-11-15T02:40:10+00:00"
+  "updated_at": "2026-11-15T09:55:01+00:00"
 }
