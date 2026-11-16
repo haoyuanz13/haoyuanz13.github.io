@@ -5,7 +5,7 @@
     {
       "name": "United States",
       "code": "us",
-      "visitors": 168,
+      "visitors": 169,
       "longitude": -98,
       "latitude": 39
     },
@@ -33,7 +33,7 @@
     {
       "name": "United Kingdom",
       "code": "gb",
-      "visitors": 10,
+      "visitors": 11,
       "longitude": -2,
       "latitude": 54
     },
@@ -185,7 +185,7 @@
       "name": "Georgia",
       "country": "United States",
       "country_code": "us",
-      "visitors": 26,
+      "visitors": 27,
       "level": "state",
       "longitude": -83.4078,
       "latitude": 32.8547
@@ -400,8 +400,8 @@
       }
     ]
   },
-  "total_visitors": 363,
+  "total_visitors": 365,
   "total_countries": 23,
   "schema_version": 2,
-  "updated_at": "2026-11-16T08:13:51+00:00"
+  "updated_at": "2026-11-16T18:35:20+00:00"
 }
