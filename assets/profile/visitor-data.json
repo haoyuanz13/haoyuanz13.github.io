@@ -1,6 +1,6 @@
 {
   "source": "https://s01.flagcounter.com/countries/GMWI/",
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "data": [
     {
       "name": "United States",
@@ -38,6 +38,13 @@
       "latitude": 54
     },
     {
+      "name": "France",
+      "code": "fr",
+      "visitors": 5,
+      "longitude": 2.552275,
+      "latitude": 46.696113
+    },
+    {
       "name": "Canada",
       "code": "ca",
       "visitors": 5,
@@ -45,11 +52,9 @@
       "latitude": 57
     },
     {
-      "name": "France",
-      "code": "fr",
-      "visitors": 4,
-      "longitude": 2.552275,
-      "latitude": 46.696113
+      "name": "Taiwan",
+      "code": "tw",
+      "visitors": 4
     },
     {
       "name": "Brazil",
@@ -57,11 +62,6 @@
       "visitors": 4,
       "longitude": -49.55945,
       "latitude": -12.098687
-    },
-    {
-      "name": "Taiwan",
-      "code": "tw",
-      "visitors": 3
     },
     {
       "name": "Serbia",
@@ -400,8 +400,8 @@
       }
     ]
   },
-  "total_visitors": 365,
+  "total_visitors": 367,
   "total_countries": 23,
   "schema_version": 2,
-  "updated_at": "2026-11-16T18:35:20+00:00"
+  "updated_at": "2026-11-17T10:41:12+00:00"
 }
