@@ -1,6 +1,6 @@
 {
   "source": "https://s01.flagcounter.com/countries/GMWI/",
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "data": [
     {
       "name": "United States",
@@ -12,7 +12,7 @@
     {
       "name": "China",
       "code": "cn",
-      "visitors": 106,
+      "visitors": 107,
       "longitude": 104,
       "latitude": 35
     },
@@ -52,6 +52,13 @@
       "latitude": 57
     },
     {
+      "name": "Serbia",
+      "code": "rs",
+      "visitors": 4,
+      "longitude": 20.787989,
+      "latitude": 44.189919
+    },
+    {
       "name": "Taiwan",
       "code": "tw",
       "visitors": 4
@@ -62,13 +69,6 @@
       "visitors": 4,
       "longitude": -49.55945,
       "latitude": -12.098687
-    },
-    {
-      "name": "Serbia",
-      "code": "rs",
-      "visitors": 3,
-      "longitude": 20.787989,
-      "latitude": 44.189919
     },
     {
       "name": "Denmark",
@@ -400,8 +400,8 @@
       }
     ]
   },
-  "total_visitors": 367,
+  "total_visitors": 369,
   "total_countries": 23,
   "schema_version": 2,
-  "updated_at": "2026-11-17T10:41:12+00:00"
+  "updated_at": "2026-11-18T18:05:29+00:00"
 }
