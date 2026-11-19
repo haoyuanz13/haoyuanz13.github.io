@@ -5,7 +5,7 @@
     {
       "name": "United States",
       "code": "us",
-      "visitors": 170,
+      "visitors": 171,
       "longitude": -98,
       "latitude": 39
     },
@@ -33,9 +33,16 @@
     {
       "name": "United Kingdom",
       "code": "gb",
-      "visitors": 11,
+      "visitors": 12,
       "longitude": -2,
       "latitude": 54
+    },
+    {
+      "name": "Brazil",
+      "code": "br",
+      "visitors": 5,
+      "longitude": -49.55945,
+      "latitude": -12.098687
     },
     {
       "name": "Taiwan",
@@ -62,13 +69,6 @@
       "visitors": 4,
       "longitude": 20.787989,
       "latitude": 44.189919
-    },
-    {
-      "name": "Brazil",
-      "code": "br",
-      "visitors": 4,
-      "longitude": -49.55945,
-      "latitude": -12.098687
     },
     {
       "name": "Denmark",
@@ -356,7 +356,7 @@
   "unresolved_regions": [
     {
       "country": "United States",
-      "visitors": 25
+      "visitors": 26
     }
   ],
   "coordinate_note": "Representative state/province or country locations; not visitor GPS coordinates.",
@@ -400,8 +400,8 @@
       }
     ]
   },
-  "total_visitors": 372,
+  "total_visitors": 375,
   "total_countries": 23,
   "schema_version": 2,
-  "updated_at": "2026-11-19T00:19:59+00:00"
+  "updated_at": "2026-11-19T07:44:02+00:00"
 }
