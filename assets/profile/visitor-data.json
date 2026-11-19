@@ -1,11 +1,11 @@
 {
   "source": "https://s01.flagcounter.com/countries/GMWI/",
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "data": [
     {
       "name": "United States",
       "code": "us",
-      "visitors": 169,
+      "visitors": 170,
       "longitude": -98,
       "latitude": 39
     },
@@ -19,7 +19,7 @@
     {
       "name": "Singapore",
       "code": "sg",
-      "visitors": 24,
+      "visitors": 25,
       "longitude": 103.8,
       "latitude": 1.35
     },
@@ -36,6 +36,11 @@
       "visitors": 11,
       "longitude": -2,
       "latitude": 54
+    },
+    {
+      "name": "Taiwan",
+      "code": "tw",
+      "visitors": 5
     },
     {
       "name": "France",
@@ -57,11 +62,6 @@
       "visitors": 4,
       "longitude": 20.787989,
       "latitude": 44.189919
-    },
-    {
-      "name": "Taiwan",
-      "code": "tw",
-      "visitors": 4
     },
     {
       "name": "Brazil",
@@ -356,7 +356,7 @@
   "unresolved_regions": [
     {
       "country": "United States",
-      "visitors": 24
+      "visitors": 25
     }
   ],
   "coordinate_note": "Representative state/province or country locations; not visitor GPS coordinates.",
@@ -400,8 +400,8 @@
       }
     ]
   },
-  "total_visitors": 369,
+  "total_visitors": 372,
   "total_countries": 23,
   "schema_version": 2,
-  "updated_at": "2026-11-18T18:05:29+00:00"
+  "updated_at": "2026-11-19T00:19:59+00:00"
 }
