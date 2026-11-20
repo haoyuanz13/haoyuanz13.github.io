@@ -5,7 +5,7 @@
     {
       "name": "United States",
       "code": "us",
-      "visitors": 171,
+      "visitors": 172,
       "longitude": -98,
       "latitude": 39
     },
@@ -33,9 +33,14 @@
     {
       "name": "United Kingdom",
       "code": "gb",
-      "visitors": 14,
+      "visitors": 15,
       "longitude": -2,
       "latitude": 54
+    },
+    {
+      "name": "Taiwan",
+      "code": "tw",
+      "visitors": 8
     },
     {
       "name": "Brazil",
@@ -43,11 +48,6 @@
       "visitors": 7,
       "longitude": -49.55945,
       "latitude": -12.098687
-    },
-    {
-      "name": "Taiwan",
-      "code": "tw",
-      "visitors": 7
     },
     {
       "name": "France",
@@ -71,6 +71,13 @@
       "latitude": 44.189919
     },
     {
+      "name": "Germany",
+      "code": "de",
+      "visitors": 3,
+      "longitude": 9.678348,
+      "latitude": 50.961733
+    },
+    {
       "name": "Denmark",
       "code": "dk",
       "visitors": 3,
@@ -83,13 +90,6 @@
       "visitors": 2,
       "longitude": 25.867126,
       "latitude": 58.724865
-    },
-    {
-      "name": "Germany",
-      "code": "de",
-      "visitors": 2,
-      "longitude": 9.678348,
-      "latitude": 50.961733
     },
     {
       "name": "Australia",
@@ -356,7 +356,7 @@
   "unresolved_regions": [
     {
       "country": "United States",
-      "visitors": 26
+      "visitors": 27
     }
   ],
   "coordinate_note": "Representative state/province or country locations; not visitor GPS coordinates.",
@@ -400,8 +400,8 @@
       }
     ]
   },
-  "total_visitors": 382,
+  "total_visitors": 386,
   "total_countries": 23,
   "schema_version": 2,
-  "updated_at": "2026-11-20T12:51:10+00:00"
+  "updated_at": "2026-11-20T20:53:07+00:00"
 }
