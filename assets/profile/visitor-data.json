@@ -1,6 +1,6 @@
 {
   "source": "https://s01.flagcounter.com/countries/GMWI/",
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "data": [
     {
       "name": "United States",
@@ -33,7 +33,7 @@
     {
       "name": "United Kingdom",
       "code": "gb",
-      "visitors": 15,
+      "visitors": 16,
       "longitude": -2,
       "latitude": 54
     },
@@ -400,8 +400,8 @@
       }
     ]
   },
-  "total_visitors": 386,
+  "total_visitors": 387,
   "total_countries": 23,
   "schema_version": 2,
-  "updated_at": "2026-11-20T20:53:07+00:00"
+  "updated_at": "2026-11-21T01:55:32+00:00"
 }
