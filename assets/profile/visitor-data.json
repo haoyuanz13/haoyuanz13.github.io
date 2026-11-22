@@ -5,21 +5,21 @@
     {
       "name": "United States",
       "code": "us",
-      "visitors": 172,
+      "visitors": 173,
       "longitude": -98,
       "latitude": 39
     },
     {
       "name": "China",
       "code": "cn",
-      "visitors": 110,
+      "visitors": 111,
       "longitude": 104,
       "latitude": 35
     },
     {
       "name": "Singapore",
       "code": "sg",
-      "visitors": 25,
+      "visitors": 26,
       "longitude": 103.8,
       "latitude": 1.35
     },
@@ -225,6 +225,15 @@
       "latitude": 31.131
     },
     {
+      "name": "New Jersey",
+      "country": "United States",
+      "country_code": "us",
+      "visitors": 3,
+      "level": "state",
+      "longitude": -74.4653,
+      "latitude": 40.0449
+    },
+    {
       "name": "Ohio",
       "country": "United States",
       "country_code": "us",
@@ -241,15 +250,6 @@
       "level": "state",
       "longitude": -120.361,
       "latitude": 47.4865
-    },
-    {
-      "name": "New Jersey",
-      "country": "United States",
-      "country_code": "us",
-      "visitors": 2,
-      "level": "state",
-      "longitude": -74.4653,
-      "latitude": 40.0449
     },
     {
       "name": "Pennsylvania",
@@ -407,8 +407,8 @@
       }
     ]
   },
-  "total_visitors": 391,
+  "total_visitors": 394,
   "total_countries": 24,
   "schema_version": 2,
-  "updated_at": "2026-11-22T09:29:12+00:00"
+  "updated_at": "2026-11-22T17:19:13+00:00"
 }
