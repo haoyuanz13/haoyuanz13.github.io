@@ -1,6 +1,6 @@
 {
   "source": "https://s01.flagcounter.com/countries/GMWI/",
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "data": [
     {
       "name": "United States",
@@ -97,6 +97,13 @@
       "visitors": 2,
       "longitude": 134,
       "latitude": -25
+    },
+    {
+      "name": "Spain",
+      "code": "es",
+      "visitors": 1,
+      "longitude": -3.464718,
+      "latitude": 40.090953
     },
     {
       "name": "Morocco",
@@ -400,8 +407,8 @@
       }
     ]
   },
-  "total_visitors": 390,
-  "total_countries": 23,
+  "total_visitors": 391,
+  "total_countries": 24,
   "schema_version": 2,
-  "updated_at": "2026-11-21T16:46:05+00:00"
+  "updated_at": "2026-11-22T09:29:12+00:00"
 }
