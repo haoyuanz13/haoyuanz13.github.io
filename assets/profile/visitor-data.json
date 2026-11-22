@@ -33,7 +33,7 @@
     {
       "name": "United Kingdom",
       "code": "gb",
-      "visitors": 16,
+      "visitors": 17,
       "longitude": -2,
       "latitude": 54
     },
@@ -407,8 +407,8 @@
       }
     ]
   },
-  "total_visitors": 394,
+  "total_visitors": 395,
   "total_countries": 24,
   "schema_version": 2,
-  "updated_at": "2026-11-22T17:19:13+00:00"
+  "updated_at": "2026-11-22T22:39:38+00:00"
 }
