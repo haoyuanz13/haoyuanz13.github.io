@@ -1,6 +1,6 @@
 {
   "source": "https://s01.flagcounter.com/countries/GMWI/",
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "data": [
     {
       "name": "United States",
@@ -24,18 +24,18 @@
       "latitude": 1.35
     },
     {
+      "name": "United Kingdom",
+      "code": "gb",
+      "visitors": 18,
+      "longitude": -2,
+      "latitude": 54
+    },
+    {
       "name": "Hong Kong",
       "code": "hk",
       "visitors": 18,
       "longitude": 114.2,
       "latitude": 22.3
-    },
-    {
-      "name": "United Kingdom",
-      "code": "gb",
-      "visitors": 17,
-      "longitude": -2,
-      "latitude": 54
     },
     {
       "name": "Taiwan",
@@ -407,8 +407,8 @@
       }
     ]
   },
-  "total_visitors": 395,
+  "total_visitors": 396,
   "total_countries": 24,
   "schema_version": 2,
-  "updated_at": "2026-11-22T22:39:38+00:00"
+  "updated_at": "2026-11-23T03:07:48+00:00"
 }
