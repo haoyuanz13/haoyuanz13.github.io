@@ -50,6 +50,13 @@
       "latitude": -12.098687
     },
     {
+      "name": "Serbia",
+      "code": "rs",
+      "visitors": 5,
+      "longitude": 20.787989,
+      "latitude": 44.189919
+    },
+    {
       "name": "France",
       "code": "fr",
       "visitors": 5,
@@ -69,13 +76,6 @@
       "visitors": 4,
       "longitude": 25.867126,
       "latitude": 58.724865
-    },
-    {
-      "name": "Serbia",
-      "code": "rs",
-      "visitors": 4,
-      "longitude": 20.787989,
-      "latitude": 44.189919
     },
     {
       "name": "Germany",
@@ -407,8 +407,8 @@
       }
     ]
   },
-  "total_visitors": 413,
+  "total_visitors": 414,
   "total_countries": 24,
   "schema_version": 2,
-  "updated_at": "2026-11-25T13:33:44+00:00"
+  "updated_at": "2026-11-25T22:45:51+00:00"
 }
