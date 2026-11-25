@@ -12,7 +12,7 @@
     {
       "name": "China",
       "code": "cn",
-      "visitors": 115,
+      "visitors": 116,
       "longitude": 104,
       "latitude": 35
     },
@@ -40,7 +40,7 @@
     {
       "name": "Taiwan",
       "code": "tw",
-      "visitors": 9
+      "visitors": 10
     },
     {
       "name": "Brazil",
@@ -407,8 +407,8 @@
       }
     ]
   },
-  "total_visitors": 411,
+  "total_visitors": 413,
   "total_countries": 24,
   "schema_version": 2,
-  "updated_at": "2026-11-25T03:44:34+00:00"
+  "updated_at": "2026-11-25T13:33:44+00:00"
 }
