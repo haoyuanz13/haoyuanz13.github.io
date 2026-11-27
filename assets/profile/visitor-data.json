@@ -1,18 +1,18 @@
 {
   "source": "https://s01.flagcounter.com/countries/GMWI/",
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "data": [
     {
       "name": "United States",
       "code": "us",
-      "visitors": 180,
+      "visitors": 183,
       "longitude": -98,
       "latitude": 39
     },
     {
       "name": "China",
       "code": "cn",
-      "visitors": 117,
+      "visitors": 118,
       "longitude": 104,
       "latitude": 35
     },
@@ -26,7 +26,7 @@
     {
       "name": "Hong Kong",
       "code": "hk",
-      "visitors": 19,
+      "visitors": 20,
       "longitude": 114.2,
       "latitude": 22.3
     },
@@ -174,7 +174,7 @@
       "name": "Iowa",
       "country": "United States",
       "country_code": "us",
-      "visitors": 41,
+      "visitors": 43,
       "level": "state",
       "longitude": -93.3891,
       "latitude": 42.0423
@@ -363,7 +363,7 @@
   "unresolved_regions": [
     {
       "country": "United States",
-      "visitors": 27
+      "visitors": 28
     }
   ],
   "coordinate_note": "Representative state/province or country locations; not visitor GPS coordinates.",
@@ -407,8 +407,8 @@
       }
     ]
   },
-  "total_visitors": 415,
+  "total_visitors": 420,
   "total_countries": 24,
   "schema_version": 2,
-  "updated_at": "2026-11-26T14:27:58+00:00"
+  "updated_at": "2026-11-27T05:02:58+00:00"
 }
